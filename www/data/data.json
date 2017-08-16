@@ -20,6 +20,19 @@
       "date": "Monday",
       "groups": [
         {
+          "time": "10:10",
+          "sessions": [
+            {
+              "name": "Tea and Coffee Break",
+              "description": "Sponsored by I & J",
+              "locationId": "exhibitionHall",
+              "timeStart": "10:10",
+              "timeEnd": "10:40",
+              "tracks": [ "Break" ]
+            }
+          ]
+        },
+        {
           "time": "11:00",
           "sessions": [
             {
@@ -58,6 +71,19 @@
               "timeEnd": "12:50",
               "speakerNames": [ "Stefan Schmitt-Rechlin" ],
               "tracks": [ "Product Theatre" ]
+            }
+          ]
+        },
+        {
+          "time": "12:40",
+          "sessions": [
+            {
+              "name": "Lunch Break",
+              "description": "Sponsored by SACNASP",
+              "locationId": "exhibitionHall",
+              "timeStart": "12:40",
+              "timeEnd": "13:30",
+              "tracks": [ "Break" ]
             }
           ]
         },
@@ -1553,6 +1579,11 @@
     }
   ],
   "locationMappings": [
+    {
+      "name": "Exhibition Hall",
+      "id": "exhibitionHall",
+      "color": "#0a485f"
+    },
     {
       "name": "Meeting Room 2",
       "id": "meetingRoom2",
