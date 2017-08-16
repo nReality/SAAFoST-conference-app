@@ -1585,6 +1585,31 @@
       "color": "#0a485f"
     },
     {
+      "name": "Hall AB",
+      "id": "hallAB",
+      "color": "#0a485f"
+    },
+    {
+      "name": "Hall C ",
+      "id": "hallC",
+      "color": "#0a485f"
+    },
+    {
+      "name": "Room 11",
+      "id": "room11",
+      "color": "#0a485f"
+    },
+    {
+      "name": "Room 8 + 9",
+      "id": "room8_9",
+      "color": "#0a485f"
+    },
+    {
+      "name": "TBC",
+      "id": "tbc",
+      "color": "#0a485f"
+    },
+    {
       "name": "Meeting Room 2",
       "id": "meetingRoom2",
       "color": "#0a485f"
