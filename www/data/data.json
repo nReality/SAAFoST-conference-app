@@ -33,6 +33,20 @@
           ]
         },
         {
+          "time": "10:40",
+          "sessions": [
+            {
+              "name": "TBC",
+              "description": "",
+              "locationId": "hallC",
+              "timeStart": "10:40",
+              "timeEnd": "11:20",
+              "tracks": [ "Plenary Session" ],
+              "speakerNames": [ "Cindy Stewart" ]
+            }
+          ]
+        },
+        {
           "time": "11:00",
           "sessions": [
             {
@@ -47,6 +61,20 @@
           ]
         },
         {
+          "time": "11:20",
+          "sessions": [
+            {
+              "name": "All colours are equal, some colours are more equal than others:  EU and US trends and differences in consumer and food industry perception of food colours and colouring food",
+              "description": "",
+              "locationId": "hallC",
+              "timeStart": "11:20",
+              "timeEnd": "12:00",
+              "tracks": [ "Plenary Session" ],
+              "speakerNames": [ "Roland Beck" ]
+            }
+          ]
+        },
+        {
           "time": "11:40",
           "sessions": [
             {
@@ -57,6 +85,20 @@
               "timeEnd": "12:10",
               "speakerNames": [ "Brian Lanton" ],
               "tracks": [ "Product Theatre" ]
+            }
+          ]
+        },
+        {
+          "time": "12:00",
+          "sessions": [
+            {
+              "name": "Diets and dietary patterns for weight loss and health: Choices and challenges",
+              "description": "",
+              "locationId": "hallC",
+              "timeStart": "12:00",
+              "timeEnd": "12:40",
+              "tracks": [ "Plenary Session" ],
+              "speakerNames": [ "Janetta Harbron" ]
             }
           ]
         },
@@ -121,6 +163,15 @@
               "timeEnd": "13:50",
               "tracks": [ "Functional Foods" ],
               "speakerNames": [ "Therina Du Toit" ]
+            },
+            {
+              "name": "UHT complexity at the point of purchase: Does entichment change the consumers' decision? ",
+              "description": "",
+              "locationId": "hallC",
+              "timeStart": "13:30",
+              "timeEnd": "13:50",
+              "tracks": [ "Food Information, Marketing to and Educating Consumers I " ],
+              "speakerNames": [ "Elizabeth Kempen" ]
             }
           ]
         },
@@ -144,6 +195,15 @@
                 "timeEnd": "14:10",
                 "tracks": [ "Functional Foods" ],
                 "speakerNames": [ "Amanda Swart" ]
+            },
+            {
+              "name": "New trends wihtin the probiotics market: How producers should deal with them",
+              "description": "",
+              "locationId": "hallC",
+              "timeStart": "13:50",
+              "timeEnd": "14:10",
+              "tracks": [ "Food Information, Marketing to and Educating Consumers I " ],
+              "speakerNames": [ "Daniel R. Calvo" ]
             }
           ]
         },
@@ -181,6 +241,15 @@
                 "timeEnd": "14:30",
                 "tracks": [ "Functional Foods" ],
                 "speakerNames": [ "A.K. Oladele" ]
+            },
+            {
+              "name": "Key influential factors pertaining to food security: The case of the University of Pretoria ",
+              "description": "",
+              "locationId": "hallC",
+              "timeStart": "14:10",
+              "timeEnd": "14:30",
+              "tracks": [ "Food Information, Marketing to and Educating Consumers I " ],
+              "speakerNames": [ "Gerrie Du Rand" ]
             }
           ]
         },
@@ -245,6 +314,15 @@
                 "timeEnd": "16:40",
                 "tracks": [ "Food & Nutrition Security and Novel Proteins " ],
                 "speakerNames": [ "Abadi G. Mezgebe" ]
+            },
+            {
+              "name": "MySAAFoST",
+              "description": "",
+              "locationId": "hallC",
+              "timeStart": "16:20",
+              "timeEnd": "16:40",
+              "tracks": [ "MySAAFoST" ],
+              "speakerNames": [ " " ]
             }
           ]
         },
@@ -267,6 +345,15 @@
                 "timeEnd": "17:00",
                 "tracks": [ "Food & Nutrition Security and Novel Proteins " ],
                 "speakerNames": [ "James Makame " ]
+            },
+            {
+              "name": "MySAAFoST",
+              "description": "",
+              "locationId": "hallC",
+              "timeStart": "16:40",
+              "timeEnd": "17:00",
+              "tracks": [ "MySAAFoST" ],
+              "speakerNames": [ " " ]
             }
           ]
         },
@@ -289,6 +376,15 @@
                 "timeEnd": "17:20",
                 "tracks": [ "Food & Nutrition Security and Novel Proteins " ],
                 "speakerNames": [ "Jessy Van Wyk " ]
+            },
+            {
+              "name": "MySAAFoST",
+              "description": "",
+              "locationId": "hallC",
+              "timeStart": "17:00",
+              "timeEnd": "17:20",
+              "tracks": [ "MySAAFoST" ],
+              "speakerNames": [ " " ]
             }
           ]
         },
@@ -311,6 +407,15 @@
                 "timeEnd": "17:40",
                 "tracks": [ "Food & Nutrition Security and Novel Proteins " ],
                 "speakerNames": [ "Nyasha Busu" ]
+            },
+            {
+              "name": "MySAAFoST",
+              "description": "",
+              "locationId": "hallC",
+              "timeStart": "17:20",
+              "timeEnd": "17:40",
+              "tracks": [ "MySAAFoST" ],
+              "speakerNames": [ " " ]
             }
           ]
         },
@@ -334,6 +439,48 @@
       "date": "Tuesday",
       "groups": [
         {
+          "time": "08:00",
+          "sessions": [
+            {
+              "name": "Dairy in cancer prevention: Good or bad? ",
+              "description": "",
+              "locationId": "hallC",
+              "timeStart": "08:00",
+              "timeEnd": "08:40",
+              "tracks": [ "Plenary Session" ],
+              "speakerNames": [ "Friede Wenhold" ]
+            }
+          ]
+        },
+        {
+          "time": "08:40",
+          "sessions": [
+            {
+              "name": "New approaches in food authenticity testing ",
+              "description": "",
+              "locationId": "hallC",
+              "timeStart": "08:40",
+              "timeEnd": "09:20",
+              "tracks": [ "Plenary Session" ],
+              "speakerNames": [ "Samim Saner" ]
+            }
+          ]
+        },
+        {
+          "time": "09:20",
+          "sessions": [
+            {
+              "name": "Novel foods in EU, GRAS in US and status in RSA - An overview and comparison of key food legislation & update on global regulation and labeling requirements for GM foods",
+              "description": "",
+              "locationId": "hallC",
+              "timeStart": "09:20",
+              "timeEnd": "10:00",
+              "tracks": [ "Plenary Session" ],
+              "speakerNames": [ "Paul Tenning & Azmy Azmy " ]
+            }
+          ]
+        },
+        {
           "time": "10:25",
           "sessions": [
             {
@@ -352,6 +499,15 @@
               "timeEnd": "10:45",
               "tracks": [ "Food processing, novel technologies, innovation and product development I" ],
               "speakerNames": [ "Caroline van Benschop" ]
+            },
+            {
+              "name": "The regulatory situation on flavours, with special reference to ingredients with flavour modifying properties (FMP's)",
+              "description": "",
+              "locationId": "hallC",
+              "timeStart": "10:25",
+              "timeEnd": "10:45",
+              "tracks": [ "SAAFFi - the flavour & fragrance association session " ],
+              "speakerNames": [ "Michael Gristwood" ]
             }
           ]
         },
@@ -374,6 +530,15 @@
               "timeEnd": "11:05",
               "tracks": [ "Food processing, novel technologies, innovation and product development I" ],
               "speakerNames": [ "Oluwatoyin Onipe" ]
+            },
+            {
+              "name": "Current trends in the flavouring industry ",
+              "description": "",
+              "locationId": "hallC",
+              "timeStart": "10:45",
+              "timeEnd": "11:05",
+              "tracks": [ "SAAFFi - the flavour & fragrance association session " ],
+              "speakerNames": [ "Chris Slabbert" ]
             }
           ]
         },
@@ -410,6 +575,15 @@
               "timeEnd": "11:25",
               "tracks": [ "Food processing, novel technologies, innovation and product development I" ],
               "speakerNames": [ "Faith Seke" ]
+            },
+            {
+              "name": "Pausing to balance the book of life: Biodiversity exploitation and sustainable use in South Africa ",
+              "description": "",
+              "locationId": "hallC",
+              "timeStart": "11:05",
+              "timeEnd": "11:25",
+              "tracks": [ "SAAFFi - the flavour & fragrance association session " ],
+              "speakerNames": [ "Neil Crouch " ]
             }
           ]
         },
@@ -432,6 +606,15 @@
               "timeEnd": "11:45",
               "tracks": [ "Food processing, novel technologies, innovation and product development I" ],
               "speakerNames": [ "Irene Ylla" ]
+            },
+            {
+              "name": "The need to apply innovative thinking to food formulation for Africa, and the effect on flavour houses",
+              "description": "",
+              "locationId": "hallC",
+              "timeStart": "11:25",
+              "timeEnd": "11:45",
+              "tracks": [ "SAAFFi - the flavour & fragrance association session " ],
+              "speakerNames": [ "Ryan Ponquett" ]
             }
           ]
         },
@@ -446,6 +629,20 @@
               "timeEnd": "12:10",
               "speakerNames": [ "Janis Sinton" ],
               "tracks": [ "Product Theatre" ]
+            }
+          ]
+        },
+        {
+          "time": "11:45",
+          "sessions": [
+            {
+              "name": "SAAFoST BGM and Lunch / poster viewing ( Sponsored by Innovation Research Solutions)",
+              "description": "",
+              "locationId": "hallC",
+              "timeStart": "11:45",
+              "timeEnd": "12:45",
+              "tracks": [ " " ],
+              "speakerNames": [ " " ]
             }
           ]
         },
@@ -482,6 +679,15 @@
               "timeEnd": "13:05",
               "tracks": [ "Sensory Science & Analysis I " ],
               "speakerNames": [ "Lara Alexander " ]
+            },
+            {
+              "name": "FreshSafe - PET",
+              "description": "",
+              "locationId": "hallC",
+              "timeStart": "12:45",
+              "timeEnd": "13:05",
+              "tracks": [ "IPSA - Food Packaging Session" ],
+              "speakerNames": [ "Joerg Thomas" ]
             }
           ]
         },
@@ -504,6 +710,15 @@
               "timeEnd": "13:25",
               "tracks": [ "Sensory Science & Analysis I " ],
               "speakerNames": [ "Louise Robertson" ]
+            },
+            {
+              "name": "Evaluating the suitability of a beverage for canning in steel or aluminum 2-piece DWI cans",
+              "description": "",
+              "locationId": "hallC",
+              "timeStart": "13:05",
+              "timeEnd": "13:25",
+              "tracks": [ "IPSA - Food Packaging Session" ],
+              "speakerNames": [ "Leanne Peinke" ]
             }
           ]
         },
@@ -540,6 +755,15 @@
               "timeEnd": "13:45",
               "tracks": [ "Sensory Science & Analysis I " ],
               "speakerNames": [ "Erika Moelich " ]
+            },
+            {
+              "name": "The new effective ethylene filtration technology to assist in storage and shelf life of fruits and vegetables ",
+              "description": "",
+              "locationId": "hallC",
+              "timeStart": "13:25",
+              "timeEnd": "13:45",
+              "tracks": [ "IPSA - Food Packaging Session" ],
+              "speakerNames": [ "Malcolm Dodd" ]
             }
           ]
         },
@@ -562,6 +786,15 @@
               "timeEnd": "14:05",
               "tracks": [ "Sensory Science & Analysis I " ],
               "speakerNames": [ "Mark Pieterse" ]
+            },
+            {
+              "name": "Some important drivers affecting the future of packaging ",
+              "description": "",
+              "locationId": "hallC",
+              "timeStart": "13:45",
+              "timeEnd": "14:05",
+              "tracks": [ "IPSA - Food Packaging Session" ],
+              "speakerNames": [ "Charles Muller" ]
             }
           ]
         },
@@ -598,6 +831,15 @@
               "timeEnd": "14:50",
               "tracks": [ "Food processing, novel technologies, innovation and product development III" ],
               "speakerNames": [ "Christian Benetka Uher" ]
+            },
+            {
+              "name": "Factors contributing to an acceptable mars food system ",
+              "description": "",
+              "locationId": "hallC",
+              "timeStart": "14:30",
+              "timeEnd": "14:50",
+              "tracks": [ "Food nutrition, diet and health" ],
+              "speakerNames": [ "Michele Perchonok" ]
             }
           ]
         },
@@ -634,6 +876,15 @@
               "timeEnd": "15:10",
               "tracks": [ "Food processing, novel technologies, innovation and product development III" ],
               "speakerNames": [ "Thakhani Milva Singo" ]
+            },
+            {
+              "name": "Bread matters",
+              "description": "",
+              "locationId": "hallC",
+              "timeStart": "14:50",
+              "timeEnd": "15:10",
+              "tracks": [ "Food nutrition, diet and health" ],
+              "speakerNames": [ "Jane Badham" ]
             }
           ]
         },
@@ -656,6 +907,15 @@
               "timeEnd": "15:30",
               "tracks": [ "Food processing, novel technologies, innovation and product development III" ],
               "speakerNames": [ "Aynur Celik" ]
+            },
+            {
+              "name": "Bifidobacterium animalis ssp. Lactis 420 with or without litesse ultra controls body fat mass and waist circumference in overweight and obese subjects - randomized, double-blind, multicenter clinical study",
+              "description": "",
+              "locationId": "hallC",
+              "timeStart": "15:10",
+              "timeEnd": "15:30",
+              "tracks": [ "Food nutrition, diet and health" ],
+              "speakerNames": [ "Lotta K. Stenman" ]
             }
           ]
         },
@@ -687,6 +947,29 @@
               "timeEnd": "15:50",
               "tracks": [ "Food processing, novel technologies, innovation and product development III" ],
               "speakerNames": [ "Marli Roberts " ]
+            },
+            {
+              "name": "Legislation, health and industry: Addressing the double burden of disease in South Africa",
+              "description": "",
+              "locationId": "hallC",
+              "timeStart": "15:30",
+              "timeEnd": "15:50",
+              "tracks": [ "Food nutrition, diet and health" ],
+              "speakerNames": [ "Petra Müller" ]
+            }
+          ]
+        },
+        {
+          "time": "15:50",
+          "sessions": [
+            {
+              "name": "Current approaches to microbiological food safety control and risk management in Africa ",
+              "description": "",
+              "locationId": "hallC",
+              "timeStart": "15:50",
+              "timeEnd": "16:30",
+              "tracks": [ "Plenary Session" ],
+              "speakerNames": [ "Lucia Anelich" ]
             }
           ]
         },
@@ -701,6 +984,20 @@
               "timeEnd": "16:40",
               "speakerNames": [ "Judy Day" ],
               "tracks": [ "Product Theatre" ]
+            }
+          ]
+        },
+        {
+          "time": "16:30",
+          "sessions": [
+            {
+              "name": "SACNASP - Your key to the profession ",
+              "description": "",
+              "locationId": "hallC",
+              "timeStart": "16:30",
+              "timeEnd": "17:10",
+              "tracks": [ "Plenary Session" ],
+              "speakerNames": [ "Gerda Botha" ]
             }
           ]
         }
@@ -738,6 +1035,15 @@
               "timeEnd": "11:20",
               "tracks": [ "Food safety & microbiology I" ],
               "speakerNames": [ "Harris Steinmann" ]
+            },
+            {
+              "name": "Building a successful sensory program in industry ",
+              "description": "",
+              "locationId": "hallC",
+              "timeStart": "11:00",
+              "timeEnd": "11:20",
+              "tracks": [ "Compusense Sensory science session " ],
+              "speakerNames": [ "Suzanne Pecore" ]
             }
           ]
         },
@@ -760,6 +1066,15 @@
               "timeEnd": "11:40",
               "tracks": [ "Food safety & microbiology I" ],
               "speakerNames": [ "Rolf Uys" ]
+            },
+            {
+              "name": "Consumer sensory guidance - the essence of market success",
+              "description": "",
+              "locationId": "hallC",
+              "timeStart": "11:20",
+              "timeEnd": "11:40",
+              "tracks": [ "Compusense Sensory science session " ],
+              "speakerNames": [ "Anne Goldman" ]
             }
           ]
         },
@@ -791,6 +1106,15 @@
               "timeEnd": "12:00",
               "tracks": [ "Food safety & microbiology I" ],
               "speakerNames": [ "Wendy Katiyo" ]
+            },
+            {
+              "name": "Building a successful sensory program in industry ",
+              "description": "",
+              "locationId": "hallC",
+              "timeStart": "11:40",
+              "timeEnd": "12:00",
+              "tracks": [ "Compusense Sensory science session " ],
+              "speakerNames": [ "John Castura" ]
             }
           ]
         },
@@ -813,6 +1137,15 @@
               "timeEnd": "12:20",
               "tracks": [ "Food safety & microbiology I" ],
               "speakerNames": [ "Linda Jackson" ]
+            },
+            {
+              "name": "Now that I collected temporal sensory data, what can I do with it? ",
+              "description": "",
+              "locationId": "hallC",
+              "timeStart": "12:00",
+              "timeEnd": "12:20",
+              "tracks": [ "Compusense Sensory science session " ],
+              "speakerNames": [ "Michael Meyners" ]
             }
           ]
         },
@@ -858,6 +1191,15 @@
               "timeEnd": "13:40",
               "tracks": [ "Food processing, novel technologies, innovation and product development IV" ],
               "speakerNames": [ "Neil Miller" ]
+            },
+            {
+              "name": "The application of sensory and consumer science tools in product development ",
+              "description": "",
+              "locationId": "hallC",
+              "timeStart": "13:20",
+              "timeEnd": "13:40",
+              "tracks": [ "Compusense Sensory science session " ],
+              "speakerNames": [ "Frieda Dehrman" ]
             }
           ]
         },
@@ -880,6 +1222,15 @@
               "timeEnd": "14:00",
               "tracks": [ "Food processing, novel technologies, innovation and product development IV" ],
               "speakerNames": [ "Oluwaseun Peter Bamidele" ]
+            },
+            {
+              "name": "Sensory: Connecting the dots - Inspiring the future",
+              "description": "",
+              "locationId": "hallC",
+              "timeStart": "13:40",
+              "timeEnd": "14:00",
+              "tracks": [ "Compusense Sensory science session " ],
+              "speakerNames": [ "Marelize Scheepers" ]
             }
           ]
         },
@@ -911,6 +1262,15 @@
               "timeEnd": "14:20",
               "tracks": [ "Food processing, novel technologies, innovation and product development IV" ],
               "speakerNames": [ "Lisa-Claire Ronquest-Ross " ]
+            },
+            {
+              "name": "Eureka moments in descriptive sensory research ",
+              "description": "",
+              "locationId": "hallC",
+              "timeStart": "14:00",
+              "timeEnd": "14:20",
+              "tracks": [ "Compusense Sensory science session " ],
+              "speakerNames": [ "Isiguzoro Onyeoziri" ]
             }
           ]
         },
@@ -933,6 +1293,15 @@
               "timeEnd": "14:40",
               "tracks": [ "Food processing, novel technologies, innovation and product development IV" ],
               "speakerNames": [ "Susan Featherstone" ]
+            },
+            {
+              "name": "Some live to eat, others eat to live: who cares about sensory quality of food? ",
+              "description": "",
+              "locationId": "hallC",
+              "timeStart": "14:20",
+              "timeEnd": "14:40",
+              "tracks": [ "Compusense Sensory science session " ],
+              "speakerNames": [ "Riette de Kock " ]
             }
           ]
         },
