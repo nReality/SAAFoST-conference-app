@@ -102,16 +102,58 @@
           ]
         },
         {
+          "time": "13:30",
+          "sessions": [
+            {
+              "name": "Dairy makes the world a healthier place: Beyond brand marketing",
+              "description": "",
+              "locationId": "room8_9",
+              "timeStart": "13:30",
+              "timeEnd": "13:50",
+              "speakerNames": [ "Christina Leighton" ],
+              "tracks": [ "SASDT - Dairy Research Session" ]
+            }
+          ]
+        },
+        {
+          "time": "13:50",
+          "sessions": [
+            {
+              "name": "To be confirmed",
+              "description": "",
+              "locationId": "room8_9",
+              "timeStart": "13:50",
+              "timeEnd": "14:10",
+              "speakerNames": [ ],
+              "tracks": [ "SASDT - Dairy Research Session" ]
+            }
+          ]
+        },
+        {
           "time": "14:00",
           "sessions": [
             {
-              "name": "Unveiling the mysteries behind the universal love of cheese - The westerner's \"Kokumi\"",
+              "name": "To be confirmed",
               "description": "",
-              "locationId": "meetingRoom2",
-              "timeStart": "14:00",
+              "locationId": "room8_9",
+              "timeStart": "13:50",
+              "timeEnd": "14:10",
+              "speakerNames": [ ],
+              "tracks": [ "SASDT - Dairy Research Session" ]
+            }
+          ]
+        },
+        {
+          "time": "14:10",
+          "sessions": [
+            {
+              "name": "Effect of cleaning in place on the germination of Bacillus cereus spores in extended shelf life milk",
+              "description": "",
+              "locationId": "room8_9",
+              "timeStart": "14:10",
               "timeEnd": "14:30",
-              "speakerNames": [ "Martin Dovey" ],
-              "tracks": [ "Product Theatre" ]
+              "speakerNames": [ "Charné Kruger" ],
+              "tracks": [ "SASDT - Dairy Research Session" ]
             }
           ]
         },
@@ -156,6 +198,71 @@
               "tracks": [ "Product Theatre" ]
             }
           ]
+        },
+        {
+          "time": "16:20",
+          "sessions": [
+            {
+              "name": "Dough-Re-Mi-Fa: Progress so Fa(r) with gluten-free viscoelastic doughs from maize zein and sorghum kafirin ",
+              "locationId": "room8_9",
+              "speakerNames": [ "John Taylor " ],
+              "tracks": [ "Food Chemistry" ],
+              "timeStart": "16:20",
+              "timeEnd": "16:40"
+            }
+          ]
+        },
+        {
+          "time": "16:40",
+          "sessions": [
+            {
+              "name": "The pre-formulation of an aspalathin-enriched green rooibos nutraceutical extract by means of nanoencapsulation in synthetic and natural polymer systems ",
+              "locationId": "room8_9",
+              "tracks": [ "Food Chemistry" ],
+              "timeStart": "16:40",
+              "timeEnd": "17:00",
+              "speakerNames": [ "Chantelle Human" ]
+            }
+          ]
+        },
+        {
+          "time": "17:00",
+          "sessions": [
+            {
+              "name": "Properties of viscoelastic dough prepared from kafirin (sorghum prolamin protein) isolated with different solvents",
+              "locationId": "room8_9",
+              "tracks": [ "Food Chemistry" ],
+              "timeStart": "17:00",
+              "timeEnd": "17:20",
+              "speakerNames": [ "Segun Isaac Oguntoyinbo" ]
+            }
+          ]
+        },
+        {
+          "time": "17:20",
+          "sessions": [
+            {
+              "name": "Effect of different banana varieties on the physico-chemical properties of the flour and the quality characteristics of selected gluten free baked products ",
+              "locationId": "room8_9",
+              "tracks": [ "Food Chemistry" ],
+              "timeStart": "17:20",
+              "timeEnd": "17:40",
+              "speakerNames": [ "Illunga Joelle Kongolo" ]
+            }
+          ]
+        },
+        {
+          "time": "18:00",
+          "sessions": [
+            {
+              "name": "Food Evolution - The Movie",
+              "description": "The first screening on the African continent of the film, Food Evolution. Directed by Academy Award nominated director, Scott Hamilton Kennedy and narrated by renowned scientist Neil deGrasse Tyson, begins a new and rational conversation about the use of sound science in our global food system. Food Evolution was made possible by the Institute of Food Technologists (IFT) who funded the film to show the critical role science and innovation play in building a safe, nutritious and sustainable food supply for everyone.  While IFT funded the film, it represents the vision, full creative control and final cut that Kennedy and his partner Trace Sheehan maintained throughout the project.",
+              "locationId": "tbc",
+              "timeStart": "18:00",
+              "timeEnd": "19:45",
+              "tracks": [ "Food Evolution - The Movie " ]
+            }
+          ]
         }
       ]
     },
@@ -163,6 +270,32 @@
     {
       "date": "Tuesday",
       "groups": [
+        {
+          "time": "10:25",
+          "sessions": [
+            {
+              "name": "Micro extraction applications for UHPLC-MS/MS analysis for food safety ",
+              "locationId": "room8_9",
+              "tracks": [ "Food analysis" ],
+              "timeStart": "10:25",
+              "timeEnd": "10:45",
+              "speakerNames": [ "Manuel Sergi" ]
+            }
+          ]
+        },
+        {
+          "time": "10:45",
+          "sessions": [
+            {
+              "name": "Nanostructured sensors for rapid detection of pesticides in food",
+              "locationId": "room8_9",
+              "tracks": [ "Food analysis" ],
+              "timeStart": "10:45",
+              "timeEnd": "11:05",
+              "speakerNames": [ "Dario Compagnone" ]
+            }
+          ]
+        },
         {
           "time": "11:00",
           "sessions": [
@@ -174,6 +307,32 @@
               "timeEnd": "11:30",
               "speakerNames": [ "Patricia Kruger" ],
               "tracks": [ "Product Theatre" ]
+            }
+          ]
+        },
+        {
+          "time": "11:05",
+          "sessions": [
+            {
+              "name": "Food quality and process control via detection of volatiles. The performance of ad hoc designed array of peptides for the development of piezoelectric e-noses",
+              "locationId": "room8_9",
+              "tracks": [ "Food analysis" ],
+              "timeStart": "11:05",
+              "timeEnd": "11:25",
+              "speakerNames": [ "Dario Compagnone" ]
+            }
+          ]
+        },
+        {
+          "time": "11:25",
+          "sessions": [
+            {
+              "name": "A brief summary of commercial authentification using spectral data",
+              "locationId": "room8_9",
+              "tracks": [ "Food analysis" ],
+              "timeStart": "11:25",
+              "timeEnd": "11:45",
+              "speakerNames": [ "Richard Majewski" ]
             }
           ]
         },
@@ -206,6 +365,32 @@
           ]
         },
         {
+          "time": "12:45",
+          "sessions": [
+            {
+              "name": "Characterisation of white maize using hyperspectral imaging",
+              "locationId": "room8_9",
+              "tracks": [ "Food processing, novel technologies, innovation and product development II" ],
+              "timeStart": "12:45",
+              "timeEnd": "13:05",
+              "speakerNames": [ "Kate Sendin" ]
+            }
+          ]
+        },
+        {
+          "time": "13:05",
+          "sessions": [
+            {
+              "name": "Nutritional quality and consumer acceptance of composite amadumbe-soya bean biscuits",
+              "locationId": "room8_9",
+              "tracks": [ "Food processing, novel technologies, innovation and product development II" ],
+              "timeStart": "13:05",
+              "timeEnd": "13:25",
+              "speakerNames": [ "Tabea Mokhele" ]
+            }
+          ]
+        },
+        {
           "time": "13:20",
           "sessions": [
             {
@@ -216,6 +401,32 @@
               "timeEnd": "13:50",
               "speakerNames": [ "Kavinta Karnik" ],
               "tracks": [ "Product Theatre" ]
+            }
+          ]
+        },
+        {
+          "time": "13:25",
+          "sessions": [
+            {
+              "name": "Quality attributes of bread from wheat flour substituted with orange-fleshed sweet potato flour and its puree",
+              "locationId": "room8_9",
+              "tracks": [ "Food processing, novel technologies, innovation and product development II" ],
+              "timeStart": "13:25",
+              "timeEnd": "13:45",
+              "speakerNames": [ "Ganiyat Olatunde" ]
+            }
+          ]
+        },
+        {
+          "time": "13:45",
+          "sessions": [
+            {
+              "name": "Innovation and the tools of the future ",
+              "locationId": "room8_9",
+              "tracks": [ "Food processing, novel technologies, innovation and product development II" ],
+              "timeStart": "13:45",
+              "timeEnd": "14:05",
+              "speakerNames": [ "Stefan Hayward" ]
             }
           ]
         },
@@ -234,6 +445,19 @@
           ]
         },
         {
+          "time": "14:30",
+          "sessions": [
+            {
+              "name": "Selection of chemical reference standards for a honeybush aroma lexicon as quality control and grading tool ",
+              "locationId": "room8_9",
+              "tracks": [ "Sensory Science & Analysis " ],
+              "timeStart": "14:30",
+              "timeEnd": "14:50",
+              "speakerNames": [ "Brigitte Von Pressentin du Preez " ]
+            }
+          ]
+        },
+        {
           "time": "14:40",
           "sessions": [
             {
@@ -248,6 +472,32 @@
           ]
         },
         {
+          "time": "14:50",
+          "sessions": [
+            {
+              "name": "Global performance management of multi-site sensory panels ",
+              "locationId": "room8_9",
+              "tracks": [ "Sensory Science & Analysis " ],
+              "timeStart": "14:50",
+              "timeEnd": "15:10",
+              "speakerNames": [ "Aruna Singh" ]
+            }
+          ]
+        },
+        {
+          "time": "15:10",
+          "sessions": [
+            {
+              "name": "Molecular and proteomic characterisation of wine and wild yeast strains used for vinification ",
+              "locationId": "room8_9",
+              "tracks": [ "Sensory Science & Analysis " ],
+              "timeStart": "15:10",
+              "timeEnd": "15:30",
+              "speakerNames": [ "Clymie Abrahams" ]
+            }
+          ]
+        },
+        {
           "time": "15:30",
           "sessions": [
             {
@@ -258,6 +508,14 @@
               "timeEnd": "16:00",
               "speakerNames": [ ],
               "tracks": [ "Product Theatre" ]
+            },
+            {
+              "name": "Multi-sensory design for colours",
+              "locationId": "room8_9",
+              "tracks": [ "Sensory Science & Analysis " ],
+              "timeStart": "15:30",
+              "timeEnd": "15:50",
+              "speakerNames": [ "Christian Benetke" ]
             }
           ]
         },
@@ -292,6 +550,27 @@
               "timeEnd": "11:30",
               "speakerNames": [ "Patricia Kruger" ],
               "tracks": [ "Product Theatre" ]
+            },
+            {
+              "name": "Prevalence and antimicrobial resistance profile of listeria monocytogenes in South African meat and meat products ",
+              "locationId": "room8_9",
+              "tracks": [ "Meat science & processing " ],
+              "timeStart": "11:00",
+              "timeEnd": "11:20",
+              "speakerNames": [ "Itumeleng Matle" ]
+            }
+          ]
+        },
+        {
+          "time": "11:20",
+          "sessions": [
+            {
+              "name": "Escherichia coli and Staphylococcus aureus antibiotic resistance patterns in livestock and wildlife farms in South Africa ",
+              "locationId": "room8_9",
+              "tracks": [ "Meat science & processing " ],
+              "timeStart": "11:20",
+              "timeEnd": "11:40",
+              "speakerNames": [ "Michaela van den Honert" ]
             }
           ]
         },
@@ -306,6 +585,27 @@
               "timeEnd": "12:10",
               "speakerNames": [ "Ashwin Lala" ],
               "tracks": [ "Product Theatre" ]
+            },
+            {
+              "name": "Isolation and antimicrobial resistance of Campylobacter spp. Associated to chicken processing ",
+              "locationId": "room8_9",
+              "tracks": [ "Meat science & processing " ],
+              "timeStart": "11:40",
+              "timeEnd": "12:00",
+              "speakerNames": [ "Sin Mei Tan" ]
+            }
+          ]
+        },
+        {
+          "time": "12:00",
+          "sessions": [
+            {
+              "name": "Effect of brine injection on the chemical, microbial, physical and sensory quality of fresh pork",
+              "locationId": "room8_9",
+              "tracks": [ "Meat science & processing " ],
+              "timeStart": "12:00",
+              "timeEnd": "12:20",
+              "speakerNames": [ "Arno Hugo" ]
             }
           ]
         },
@@ -334,6 +634,27 @@
               "timeEnd": "13:50",
               "speakerNames": [ "Martin Dovey" ],
               "tracks": [ "Product Theatre" ]
+            },
+            {
+              "name": "Cooling rates and safe chickens",
+              "locationId": "room8_9",
+              "tracks": [ "Food safety & microbiology II" ],
+              "timeStart": "13:20",
+              "timeEnd": "13:40",
+              "speakerNames": [ "Ranil Coorey" ]
+            }
+          ]
+        },
+        {
+          "time": "13:40",
+          "sessions": [
+            {
+              "name": "Quantitative risk assessment for shigatoxin producing E.coli in bulk milk sold directly from producer to consumer ",
+              "locationId": "room8_9",
+              "tracks": [ "Food safety & microbiology II" ],
+              "timeStart": "13:40",
+              "timeEnd": "14:00",
+              "speakerNames": [ "Victor Ntuli" ]
             }
           ]
         },
@@ -348,6 +669,27 @@
               "timeEnd": "14:30",
               "speakerNames": [ "Wayne V. Wieuwenhuizen" ],
               "tracks": [ "Product Theatre" ]
+            },
+            {
+              "name": "The role of management in food safety at a prominent South African entertainment facility: The Provision of food safety training - a case study ",
+              "locationId": "room8_9",
+              "tracks": [ "Food safety & microbiology II" ],
+              "timeStart": "14:00",
+              "timeEnd": "14:20",
+              "speakerNames": [ "Linda Jackson" ]
+            }
+          ]
+        },
+        {
+          "time": "14:20",
+          "sessions": [
+            {
+              "name": "Food safety knowledge, attitudes and practices (KAP) of South African consumers toward fresh produce ",
+              "locationId": "room8_9",
+              "tracks": [ "Food safety & microbiology II" ],
+              "timeStart": "14:20",
+              "timeEnd": "14:40",
+              "speakerNames": [ "Gerrie Du Rand" ]
             }
           ]
         },
@@ -682,7 +1024,7 @@
       "about": ""
     },
     {
-      "name": "Charné Kruger ",
+      "name": "Charné Kruger",
       "affiliation": "University of Pretoria",
       "priority": 1,
       "profilePic": "img/speakers/no-image-head.png",
