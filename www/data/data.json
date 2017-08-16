@@ -20,6 +20,90 @@
       "date": "Monday",
       "groups": [
         {
+          "time": "08:00",
+          "sessions": [
+            {
+              "name": "Welcome Address",
+              "description": "",
+              "locationId": "hallAB",
+              "timeStart": "08:00",
+              "timeEnd": "08:05",
+              "tracks": [ "Opening Plenary Session" ],
+              "speakerNames": [ "Lucia Anelich" ]
+            }
+          ]
+        },
+        {
+          "time": "08:05",
+          "sessions": [
+            {
+              "name": "Greetings from IUFoST & IFT",
+              "description": "",
+              "locationId": "hallAB",
+              "timeStart": "08:05",
+              "timeEnd": "08:15",
+              "tracks": [ "Opening Plenary Session" ],
+              "speakerNames": [ " " ]
+            }
+          ]
+        },
+        {
+          "time": "08:15",
+          "sessions": [
+            {
+              "name": "Official Opening and Address",
+              "description": "",
+              "locationId": "hallAB",
+              "timeStart": "08:15",
+              "timeEnd": "08:30",
+              "tracks": [ "Opening Plenary Session" ],
+              "speakerNames": [ "Minister Alan Winde" ]
+            }
+          ]
+        },
+        {
+          "time": "08:30",
+          "sessions": [
+            {
+              "name": "The human age:  Confronting the anthropocene conundrum",
+              "description": "",
+              "locationId": "hallAB",
+              "timeStart": "08:30",
+              "timeEnd": "09:15",
+              "tracks": [ "Opening Plenary Session" ],
+              "speakerNames": [ "Dennis Dimick" ]
+            }
+          ]
+        },
+        {
+          "time": "09:15",
+          "sessions": [
+            {
+              "name": "Ernest Newbury Memorial Lecture:  The challenges in developing a food system for a Mars mission",
+              "description": "",
+              "locationId": "hallAB",
+              "timeStart": "09:15",
+              "timeEnd": "09:55",
+              "tracks": [ "Opening Plenary Session" ],
+              "speakerNames": [ "Michele Perchonok" ]
+            }
+          ]
+        },
+        {
+          "time": "09:55",
+          "sessions": [
+            {
+              "name": "FACS",
+              "description": "",
+              "locationId": "hallAB",
+              "timeStart": "09:55",
+              "timeEnd": "10:10",
+              "tracks": [ "Opening Plenary Session" ],
+              "speakerNames": [ "David Watson" ]
+            }
+          ]
+        },
+        {
           "time": "10:10",
           "sessions": [
             {
@@ -43,6 +127,15 @@
               "timeEnd": "11:20",
               "tracks": [ "Plenary Session" ],
               "speakerNames": [ "Cindy Stewart" ]
+            },
+            {
+              "name": "Fab fad foods:  Why consumers are none the wiser on the link between diet and health",
+              "description": "",
+              "locationId": "hallAB",
+              "timeStart": "10:40",
+              "timeEnd": "11:20",
+              "tracks": [ "Plenary Session" ],
+              "speakerNames": [ "Fru Nche" ]
             }
           ]
         },
@@ -71,6 +164,15 @@
               "timeEnd": "12:00",
               "tracks": [ "Plenary Session" ],
               "speakerNames": [ "Roland Beck" ]
+            },
+            {
+              "name": "The food industry and the obesity issue - Is there a middle ground?",
+              "description": "",
+              "locationId": "hallAB",
+              "timeStart": "11:20",
+              "timeEnd": "12:00",
+              "tracks": [ "Plenary Session" ],
+              "speakerNames": [ "Nigel Sunley" ]
             }
           ]
         },
@@ -99,6 +201,15 @@
               "timeEnd": "12:40",
               "tracks": [ "Plenary Session" ],
               "speakerNames": [ "Janetta Harbron" ]
+            },
+            {
+              "name": "The \"war on big food\" and the way small innovative entrepreneurial brands with back story are disrupting how we shop, eat and live",
+              "description": "",
+              "locationId": "hallAB",
+              "timeStart": "12:00",
+              "timeEnd": "12:40",
+              "tracks": [ "Plenary Session" ],
+              "speakerNames": [ "Judy Sendzul" ]
             }
           ]
         },
@@ -172,6 +283,15 @@
               "timeEnd": "13:50",
               "tracks": [ "Food Information, Marketing to and Educating Consumers I " ],
               "speakerNames": [ "Elizabeth Kempen" ]
+            },
+            {
+              "name": "Food waste: Time to shift the blame",
+              "description": "",
+              "locationId": "hallAB",
+              "timeStart": "13:30",
+              "timeEnd": "13:50",
+              "tracks": [ "Environmental Sustainability and GM Foods" ],
+              "speakerNames": [ "Shandré Candiotes" ]
             }
           ]
         },
@@ -204,6 +324,15 @@
               "timeEnd": "14:10",
               "tracks": [ "Food Information, Marketing to and Educating Consumers I " ],
               "speakerNames": [ "Daniel R. Calvo" ]
+            },
+            {
+              "name": "Perspective on vague concepts in the safety and risk assessment of food with reference to GM - food ",
+              "description": "",
+              "locationId": "hallAB",
+              "timeStart": "13:50",
+              "timeEnd": "14:10",
+              "tracks": [ "Environmental Sustainability and GM Foods" ],
+              "speakerNames": [ "Wilna Jansen van Rijssen" ]
             }
           ]
         },
@@ -250,6 +379,29 @@
               "timeEnd": "14:30",
               "tracks": [ "Food Information, Marketing to and Educating Consumers I " ],
               "speakerNames": [ "Gerrie Du Rand" ]
+            },
+            {
+              "name": "GM foods: so much confusion ",
+              "description": "",
+              "locationId": "hallAB",
+              "timeStart": "14:10",
+              "timeEnd": "14:30",
+              "tracks": [ "Environmental Sustainability and GM Foods" ],
+              "speakerNames": [ "Wynand van der Walt" ]
+            }
+          ]
+        },
+        {
+          "time": "14:35",
+          "sessions": [
+            {
+              "name": "Your career begins as a student: The benefits of early and continued involvement in professional societies. ",
+              "description": "",
+              "locationId": "hallAB",
+              "timeStart": "14:35",
+              "timeEnd": "15:15",
+              "tracks": [ "Plenary Session" ],
+              "speakerNames": [ "Christie Tarantino, Matt Teegarden & Amy DeJong" ]
             }
           ]
         },
@@ -264,6 +416,20 @@
               "timeEnd": "15:10",
               "speakerNames": [ "Lacques Masset" ],
               "tracks": [ "Product Theatre" ]
+            }
+          ]
+        },
+        {
+          "time": "15:15",
+          "sessions": [
+            {
+              "name": "Relentlessly relevant - How to innovate ",
+              "description": "",
+              "locationId": "hallAB",
+              "timeStart": "15:15",
+              "timeEnd": "15:55",
+              "tracks": [ "Plenary Session" ],
+              "speakerNames": [ "Douglas Kruger" ]
             }
           ]
         },
@@ -323,6 +489,15 @@
               "timeEnd": "16:40",
               "tracks": [ "MySAAFoST" ],
               "speakerNames": [ " " ]
+            },
+            {
+              "name": "Global food trends and the concept of 'decolonising' the South African food industry",
+              "description": "",
+              "locationId": "hallAB",
+              "timeStart": "16:20",
+              "timeEnd": "16:40",
+              "tracks": [ "DSM Global & Regional Consumer trends" ],
+              "speakerNames": [ "Denise Metcalfe" ]
             }
           ]
         },
@@ -354,6 +529,15 @@
               "timeEnd": "17:00",
               "tracks": [ "MySAAFoST" ],
               "speakerNames": [ " " ]
+            },
+            {
+              "name": "Colouring foods - Global trends",
+              "description": "",
+              "locationId": "hallAB",
+              "timeStart": "16:40",
+              "timeEnd": "17:00",
+              "tracks": [ "DSM Global & Regional Consumer trends" ],
+              "speakerNames": [ "Blanche Kotze" ]
             }
           ]
         },
@@ -385,6 +569,15 @@
               "timeEnd": "17:20",
               "tracks": [ "MySAAFoST" ],
               "speakerNames": [ " " ]
+            },
+            {
+              "name": "Trends in health concerns of South Africans - Practical application thereof in food, beverage and supplement product development ",
+              "description": "",
+              "locationId": "hallAB",
+              "timeStart": "17:00",
+              "timeEnd": "17:20",
+              "tracks": [ "DSM Global & Regional Consumer trends" ],
+              "speakerNames": [ "Monique Tredoux" ]
             }
           ]
         },
@@ -416,6 +609,15 @@
               "timeEnd": "17:40",
               "tracks": [ "MySAAFoST" ],
               "speakerNames": [ " " ]
+            },
+            {
+              "name": "The relationship between selected internal consumer behaviour variables and the emotional response to the sensory properties of chocolate ",
+              "description": "",
+              "locationId": "hallAB",
+              "timeStart": "17:20",
+              "timeEnd": "17:40",
+              "tracks": [ "DSM Global & Regional Consumer trends" ],
+              "speakerNames": [ "Innike Taljaard" ]
             }
           ]
         },
@@ -449,6 +651,15 @@
               "timeEnd": "08:40",
               "tracks": [ "Plenary Session" ],
               "speakerNames": [ "Friede Wenhold" ]
+            },
+            {
+              "name": "Food fraud, pseudoscience and ethics ",
+              "description": "",
+              "locationId": "hallAB",
+              "timeStart": "08:00",
+              "timeEnd": "08:40",
+              "tracks": [ "Plenary Session" ],
+              "speakerNames": [ "Harris Steinmann" ]
             }
           ]
         },
@@ -463,6 +674,15 @@
               "timeEnd": "09:20",
               "tracks": [ "Plenary Session" ],
               "speakerNames": [ "Samim Saner" ]
+            },
+            {
+              "name": "Everything is 'addictive': How consumers are seduced by sensation.",
+              "description": "",
+              "locationId": "hallAB",
+              "timeStart": "08:40",
+              "timeEnd": "09:20",
+              "tracks": [ "Plenary Session" ],
+              "speakerNames": [ "jacques Rousseau " ]
             }
           ]
         },
@@ -477,6 +697,15 @@
               "timeEnd": "10:00",
               "tracks": [ "Plenary Session" ],
               "speakerNames": [ "Paul Tenning & Azmy Azmy " ]
+            },
+            {
+              "name": "Innovative algae and insects processing to target a more sustainable food supply ",
+              "description": "",
+              "locationId": "hallAB",
+              "timeStart": "09:20",
+              "timeEnd": "10:00",
+              "tracks": [ "Plenary Session" ],
+              "speakerNames": [ "Alexander Mathys" ]
             }
           ]
         },
@@ -508,6 +737,15 @@
               "timeEnd": "10:45",
               "tracks": [ "SAAFFi - the flavour & fragrance association session " ],
               "speakerNames": [ "Michael Gristwood" ]
+            },
+            {
+              "name": "A south african legal perspective on food fraud ",
+              "description": "",
+              "locationId": "hallAB",
+              "timeStart": "10:25",
+              "timeEnd": "10:45",
+              "tracks": [ "Food myths, media hype, pseudoscience and science communication " ],
+              "speakerNames": [ "Janusz Luterek" ]
             }
           ]
         },
@@ -539,6 +777,15 @@
               "timeEnd": "11:05",
               "tracks": [ "SAAFFi - the flavour & fragrance association session " ],
               "speakerNames": [ "Chris Slabbert" ]
+            },
+            {
+              "name": "Consumer Journalist ",
+              "description": "",
+              "locationId": "hallAB",
+              "timeStart": "10:45",
+              "timeEnd": "11:05",
+              "tracks": [ "Food myths, media hype, pseudoscience and science communication " ],
+              "speakerNames": [ "Wendy Knowler " ]
             }
           ]
         },
@@ -584,6 +831,15 @@
               "timeEnd": "11:25",
               "tracks": [ "SAAFFi - the flavour & fragrance association session " ],
               "speakerNames": [ "Neil Crouch " ]
+            },
+            {
+              "name": "Evidence-based science communication",
+              "description": "",
+              "locationId": "hallAB",
+              "timeStart": "11:05",
+              "timeEnd": "11:25",
+              "tracks": [ "Food myths, media hype, pseudoscience and science communication " ],
+              "speakerNames": [ "Marina Joubert" ]
             }
           ]
         },
@@ -615,6 +871,15 @@
               "timeEnd": "11:45",
               "tracks": [ "SAAFFi - the flavour & fragrance association session " ],
               "speakerNames": [ "Ryan Ponquett" ]
+            },
+            {
+              "name": "Panel Questions and Answers ",
+              "description": "",
+              "locationId": "hallAB",
+              "timeStart": "11:25",
+              "timeEnd": "11:45",
+              "tracks": [ "Food myths, media hype, pseudoscience and science communication " ],
+              "speakerNames": [ " " ]
             }
           ]
         },
@@ -688,6 +953,15 @@
               "timeEnd": "13:05",
               "tracks": [ "IPSA - Food Packaging Session" ],
               "speakerNames": [ "Joerg Thomas" ]
+            },
+            {
+              "name": "Infant and young child feeding - myths,realities and clever tricks ",
+              "description": "",
+              "locationId": "hallAB",
+              "timeStart": "12:45",
+              "timeEnd": "13:05",
+              "tracks": [ "Food myths, media hype, pseudoscience and science communication " ],
+              "speakerNames": [ "Jane Badham" ]
             }
           ]
         },
@@ -719,6 +993,15 @@
               "timeEnd": "13:25",
               "tracks": [ "IPSA - Food Packaging Session" ],
               "speakerNames": [ "Leanne Peinke" ]
+            },
+            {
+              "name": "Food fraud, pseudoscience and ethics ",
+              "description": "",
+              "locationId": "hallAB",
+              "timeStart": "13:05",
+              "timeEnd": "13:25",
+              "tracks": [ "Food myths, media hype, pseudoscience and science communication " ],
+              "speakerNames": [ "Harris Steinmann" ]
             }
           ]
         },
@@ -764,6 +1047,15 @@
               "timeEnd": "13:45",
               "tracks": [ "IPSA - Food Packaging Session" ],
               "speakerNames": [ "Malcolm Dodd" ]
+            },
+            {
+              "name": "Everything is 'addictive': How consumers are seduced by sensation.",
+              "description": "",
+              "locationId": "hallAB",
+              "timeStart": "13:25",
+              "timeEnd": "13:45",
+              "tracks": [ "Food myths, media hype, pseudoscience and science communication " ],
+              "speakerNames": [ "Jacques Rousseau " ]
             }
           ]
         },
@@ -795,6 +1087,15 @@
               "timeEnd": "14:05",
               "tracks": [ "IPSA - Food Packaging Session" ],
               "speakerNames": [ "Charles Muller" ]
+            },
+            {
+              "name": "Panel Questions and Answers ",
+              "description": "",
+              "locationId": "hallAB",
+              "timeStart": "13:45",
+              "timeEnd": "14:05",
+              "tracks": [ "Food myths, media hype, pseudoscience and science communication " ],
+              "speakerNames": [ " " ]
             }
           ]
         },
@@ -840,6 +1141,15 @@
               "timeEnd": "14:50",
               "tracks": [ "Food nutrition, diet and health" ],
               "speakerNames": [ "Michele Perchonok" ]
+            },
+            {
+              "name": "Food irradiation: The myths and facts ",
+              "description": "",
+              "locationId": "hallAB",
+              "timeStart": "14:30",
+              "timeEnd": "14:50",
+              "tracks": [ "Food myths, media hype, pseudoscience and science communication " ],
+              "speakerNames": [ "Chein Balt" ]
             }
           ]
         },
@@ -885,6 +1195,15 @@
               "timeEnd": "15:10",
               "tracks": [ "Food nutrition, diet and health" ],
               "speakerNames": [ "Jane Badham" ]
+            },
+            {
+              "name": "GM food - is it time for a new debate? ",
+              "description": "",
+              "locationId": "hallAB",
+              "timeStart": "14:50",
+              "timeEnd": "15:10",
+              "tracks": [ "Food myths, media hype, pseudoscience and science communication " ],
+              "speakerNames": [ "Johan Burger" ]
             }
           ]
         },
@@ -916,6 +1235,15 @@
               "timeEnd": "15:30",
               "tracks": [ "Food nutrition, diet and health" ],
               "speakerNames": [ "Lotta K. Stenman" ]
+            },
+            {
+              "name": "Ultra-processed food'- myth or viable classification parameter?",
+              "description": "",
+              "locationId": "hallAB",
+              "timeStart": "15:10",
+              "timeEnd": "15:30",
+              "tracks": [ "Food myths, media hype, pseudoscience and science communication " ],
+              "speakerNames": [ "Nigle Sunley" ]
             }
           ]
         },
@@ -956,6 +1284,15 @@
               "timeEnd": "15:50",
               "tracks": [ "Food nutrition, diet and health" ],
               "speakerNames": [ "Petra Müller" ]
+            },
+            {
+              "name": "Panel Questions and Answers ",
+              "description": "",
+              "locationId": "hallAB",
+              "timeStart": "15:30",
+              "timeEnd": "15:50",
+              "tracks": [ "Food myths, media hype, pseudoscience and science communication " ],
+              "speakerNames": [ " " ]
             }
           ]
         },
@@ -970,6 +1307,15 @@
               "timeEnd": "16:30",
               "tracks": [ "Plenary Session" ],
               "speakerNames": [ "Lucia Anelich" ]
+            },
+            {
+              "name": "TBC - Packaging, that saves food",
+              "description": "",
+              "locationId": "hallAB",
+              "timeStart": "15:50",
+              "timeEnd": "16:30",
+              "tracks": [ "Plenary Session" ],
+              "speakerNames": [ "Johannes Bergmair" ]
             }
           ]
         },
@@ -998,6 +1344,15 @@
               "timeEnd": "17:10",
               "tracks": [ "Plenary Session" ],
               "speakerNames": [ "Gerda Botha" ]
+            },
+            {
+              "name": "The interface between food engineering and gastronomy ",
+              "description": "",
+              "locationId": "hallAB",
+              "timeStart": "16:30",
+              "timeEnd": "17:10",
+              "tracks": [ "Plenary Session" ],
+              "speakerNames": [ "José Aguilera" ]
             }
           ]
         }
@@ -1007,6 +1362,62 @@
     {
       "date": "Wednesday",
       "groups": [
+        {
+          "time": "08:00",
+          "sessions": [
+            {
+              "name": "From chemicals to cold plasma: Non-thermal food processing techologies research at the USDA's eastern regional research centre ",
+              "description": "",
+              "locationId": "hallAB",
+              "timeStart": "08:00",
+              "timeEnd": "08:40",
+              "tracks": [ "Plenary Session" ],
+              "speakerNames": [ "Brendan Niemira" ]
+            }
+          ]
+        },
+        {
+          "time": "08:40",
+          "sessions": [
+            {
+              "name": "Disruption from the second half of the XXth century flavor model, a modern and transparent way to flavour food",
+              "description": "",
+              "locationId": "hallAB",
+              "timeStart": "08:40",
+              "timeEnd": "09:20",
+              "tracks": [ "Plenary Session" ],
+              "speakerNames": [ "Eric Davodeau" ]
+            }
+          ]
+        },
+        {
+          "time": "09:20",
+          "sessions": [
+            {
+              "name": "Future developments in comsumer and sensory science: The effect of climate change and pupolation pressure ",
+              "description": "",
+              "locationId": "hallAB",
+              "timeStart": "09:20",
+              "timeEnd": "10:00",
+              "tracks": [ "Plenary Session" ],
+              "speakerNames": [ "Chris Findlay" ]
+            }
+          ]
+        },
+        {
+          "time": "10:00",
+          "sessions": [
+            {
+              "name": "SMART foods for the food insecure",
+              "description": "",
+              "locationId": "hallAB",
+              "timeStart": "10:00",
+              "timeEnd": "10:40",
+              "tracks": [ "Plenary Session" ],
+              "speakerNames": [ "Naushad Emmambux" ]
+            }
+          ]
+        },
         {
           "time": "11:00",
           "sessions": [
@@ -1044,6 +1455,15 @@
               "timeEnd": "11:20",
               "tracks": [ "Compusense Sensory science session " ],
               "speakerNames": [ "Suzanne Pecore" ]
+            },
+            {
+              "name": "Buffalo absent from buffalo mozzarella? ",
+              "description": "",
+              "locationId": "hallAB",
+              "timeStart": "11:00",
+              "timeEnd": "11:20",
+              "tracks": [ "Food fraud & traceability" ],
+              "speakerNames": [ "Jana du plessis" ]
             }
           ]
         },
@@ -1075,6 +1495,15 @@
               "timeEnd": "11:40",
               "tracks": [ "Compusense Sensory science session " ],
               "speakerNames": [ "Anne Goldman" ]
+            },
+            {
+              "name": "Why is there a peanut in my chillies? ",
+              "description": "",
+              "locationId": "hallAB",
+              "timeStart": "11:20",
+              "timeEnd": "11:40",
+              "tracks": [ "Food fraud & traceability" ],
+              "speakerNames": [ "Cheryl Fox" ]
             }
           ]
         },
@@ -1115,6 +1544,15 @@
               "timeEnd": "12:00",
               "tracks": [ "Compusense Sensory science session " ],
               "speakerNames": [ "John Castura" ]
+            },
+            {
+              "name": "Fighting fish fraud: detection of mislabeled sea fish using a portable near infrared (NIR) spectrophotometer",
+              "description": "",
+              "locationId": "hallAB",
+              "timeStart": "11:40",
+              "timeEnd": "12:00",
+              "tracks": [ "Food fraud & traceability" ],
+              "speakerNames": [ "Anina Guelpa" ]
             }
           ]
         },
@@ -1146,6 +1584,15 @@
               "timeEnd": "12:20",
               "tracks": [ "Compusense Sensory science session " ],
               "speakerNames": [ "Michael Meyners" ]
+            },
+            {
+              "name": "South African honey authentication by means of NIR spectroscopy",
+              "description": "",
+              "locationId": "hallAB",
+              "timeStart": "12:00",
+              "timeEnd": "12:20",
+              "tracks": [ "Food fraud & traceability" ],
+              "speakerNames": [ "Marena Manley" ]
             }
           ]
         },
@@ -1200,6 +1647,15 @@
               "timeEnd": "13:40",
               "tracks": [ "Compusense Sensory science session " ],
               "speakerNames": [ "Frieda Dehrman" ]
+            },
+            {
+              "name": "The development and pilot testing of health endorsement logos for food products that are healthy choices based on the South African nutrient profile model",
+              "description": "",
+              "locationId": "hallAB",
+              "timeStart": "13:20",
+              "timeEnd": "13:40",
+              "tracks": [ "Food Information, Marketing to and Educating Consumers I " ],
+              "speakerNames": [ "Nelene Koen " ]
             }
           ]
         },
@@ -1231,6 +1687,15 @@
               "timeEnd": "14:00",
               "tracks": [ "Compusense Sensory science session " ],
               "speakerNames": [ "Marelize Scheepers" ]
+            },
+            {
+              "name": "Food labeling legislation: Critical considerations during new product development ",
+              "description": "",
+              "locationId": "hallAB",
+              "timeStart": "13:40",
+              "timeEnd": "14:00",
+              "tracks": [ "Food Information, Marketing to and Educating Consumers I " ],
+              "speakerNames": [ "Deborah van der Merwe" ]
             }
           ]
         },
@@ -1271,6 +1736,15 @@
               "timeEnd": "14:20",
               "tracks": [ "Compusense Sensory science session " ],
               "speakerNames": [ "Isiguzoro Onyeoziri" ]
+            },
+            {
+              "name": "Navigating the maze of government departments and their food labeling regulations ",
+              "description": "",
+              "locationId": "hallAB",
+              "timeStart": "14:00",
+              "timeEnd": "14:20",
+              "tracks": [ "Food Information, Marketing to and Educating Consumers I " ],
+              "speakerNames": [ "Karen Horsburgh" ]
             }
           ]
         },
@@ -1302,6 +1776,15 @@
               "timeEnd": "14:40",
               "tracks": [ "Compusense Sensory science session " ],
               "speakerNames": [ "Riette de Kock " ]
+            },
+            {
+              "name": "GM food: How much does the South African consumer know? ",
+              "description": "",
+              "locationId": "hallAB",
+              "timeStart": "14:20",
+              "timeEnd": "14:40",
+              "tracks": [ "Food Information, Marketing to and Educating Consumers I " ],
+              "speakerNames": [ "Izelri Marx" ]
             }
           ]
         },
@@ -1316,6 +1799,34 @@
               "timeEnd": "15:10",
               "speakerNames": [ "Ryan Ponquett" ],
               "tracks": [ "Product Theatre" ]
+            }
+          ]
+        },
+        {
+          "time": "15:10",
+          "sessions": [
+            {
+              "name": "Tackling the problems of food adulteration and authenticity: A global challenge",
+              "description": "",
+              "locationId": "hallAB",
+              "timeStart": "15:10",
+              "timeEnd": "15:50",
+              "tracks": [ "Closing Plenary Session" ],
+              "speakerNames": [ "John O'Brien" ]
+            }
+          ]
+        },
+        {
+          "time": "15:50",
+          "sessions": [
+            {
+              "name": "Challenges and opportunities of emerging food technologies",
+              "description": "",
+              "locationId": "hallAB",
+              "timeStart": "15:50",
+              "timeEnd": "16:30",
+              "tracks": [ "Closing Plenary Session" ],
+              "speakerNames": [ "Dietrich Knorr" ]
             }
           ]
         }
