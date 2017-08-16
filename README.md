@@ -1,11 +1,8 @@
-# Conference App
+# Saafost 2017 Conference App
 
 ## Table of Contents
  - [Getting Started](#getting-started)
- - [Contributing](#contributing)
- - [Use Cases](#use-cases)
  - [App Preview](#app-preview)
- - [File Structure of App](#file-structure-of-app)
 
 
 ## Getting Started
