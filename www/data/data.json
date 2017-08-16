@@ -1,9 +1,9 @@
 {
-  "name": "Test App",
-  "description": "Test Description",
+  "name": "SAAFoST 2017",
+  "description": "SAAFoST Congress 2017",
   "about": {
     "imageSrc": "https://robohash.org/happy",
-    "heading":"Test Conference 2017",
+    "heading":"SAAFoST Congress 2017",
     "subHeading": "Time to shine",
     "description": "Awesome Conference oh yea!",
     "website": "",
@@ -24,7 +24,7 @@
           "sessions": [
             {
               "name": "Lean Coffee",
-              "locationId": "room1",
+              "locationId": "meetingRoom2",
               "description": "Coffe and the space proudly sponsored by agile42.",
               "timeStart": "7:30 am",
               "timeEnd": "8:30 am",
@@ -39,7 +39,7 @@
           "sessions": [
             {
               "name": "Lean Tea",
-              "locationId": "room2",
+              "locationId": "meetingRoom2",
               "description": "Coffe and the space proudly sponsored by agile42.",
               "timeStart": "7:30 am",
               "timeEnd": "8:30 am",
@@ -54,7 +54,160 @@
   ],
   "speakers": [
     {
-      "name": "Speaker 1",
+      "name": "Nico Basson",
+      "affiliation": "Salinity",
+      "priority": 1,
+      "profilePic": "img/speakers/no-image-head.png",
+      "twitter": "@someone",
+      "about": "something"
+    },
+    {
+      "name": "Brian Lanton",
+      "affiliation": "Cape Food Ingredients",
+      "priority": 1,
+      "profilePic": "img/speakers/no-image-head.png",
+      "twitter": "@someone",
+      "about": "something"
+    },
+    {
+      "name": "Stefan Schmitt-Rechlin",
+      "affiliation": "J.Rettenmaier & Soehne",
+      "priority": 1,
+      "profilePic": "img/speakers/no-image-head.png",
+      "twitter": "@someone",
+      "about": "something"
+    },
+    {
+      "name": "Thapelo Mashego",
+      "affiliation": "Kerry",
+      "priority": 1,
+      "profilePic": "img/speakers/no-image-head.png",
+      "twitter": "@someone",
+      "about": "something"
+    },
+    {
+      "name": "Martin Dovey",
+      "affiliation": "Kerry",
+      "priority": 1,
+      "profilePic": "img/speakers/no-image-head.png",
+      "twitter": "@someone",
+      "about": "something"
+    },
+    {
+      "name": "Lacques Masset",
+      "affiliation": "Tate & Lyle",
+      "priority": 1,
+      "profilePic": "img/speakers/no-image-head.png",
+      "twitter": "@someone",
+      "about": "something"
+    },
+    {
+      "name": "Mohamed Ashraf",
+      "affiliation": "Cargill METNA",
+      "priority": 1,
+      "profilePic": "img/speakers/no-image-head.png",
+      "twitter": "@someone",
+      "about": "something"
+    },
+    {
+      "name": "Gavin Keeling",
+      "affiliation": "ICL presented by Crown Food",
+      "priority": 1,
+      "profilePic": "img/speakers/no-image-head.png",
+      "twitter": "@someone",
+      "about": "something"
+    },
+    {
+      "name": "Audace Nindorera",
+      "affiliation": "ICL presented by Crown Food",
+      "priority": 1,
+      "profilePic": "img/speakers/no-image-head.png",
+      "twitter": "@someone",
+      "about": "something"
+    },
+    {
+      "name": "Patricia Kruger",
+      "affiliation": "Sensient Colors",
+      "priority": 1,
+      "profilePic": "img/speakers/no-image-head.png",
+      "twitter": "@someone",
+      "about": "something"
+    },
+    {
+      "name": "Janis Sinton",
+      "affiliation": "Cape Food Ingredients",
+      "priority": 1,
+      "profilePic": "img/speakers/no-image-head.png",
+      "twitter": "@someone",
+      "about": "something"
+    },
+    {
+      "name": "Mary Quinlan",
+      "affiliation": "Tate & Lyle",
+      "priority": 1,
+      "profilePic": "img/speakers/no-image-head.png",
+      "twitter": "@someone",
+      "about": "something"
+    },
+    {
+      "name": "Kavinta Karnik",
+      "affiliation": "Tate & Lyle",
+      "priority": 1,
+      "profilePic": "img/speakers/no-image-head.png",
+      "twitter": "@someone",
+      "about": "something"
+    },
+    {
+      "name": "Brett Wordon",
+      "affiliation": "DuPont Nutrition and Health ",
+      "priority": 1,
+      "profilePic": "img/speakers/no-image-head.png",
+      "twitter": "@someone",
+      "about": "something"
+    },
+    {
+      "name": "Garry Mendelson",
+      "affiliation": "EMEA DuPont Nutrition & Health",
+      "priority": 1,
+      "profilePic": "img/speakers/no-image-head.png",
+      "twitter": "@someone",
+      "about": "something"
+    },
+    {
+      "name": "Judy Day",
+      "affiliation": "Doehler",
+      "priority": 1,
+      "profilePic": "img/speakers/no-image-head.png",
+      "twitter": "@someone",
+      "about": "something"
+    },
+    {
+      "name": "Ashwin Lala",
+      "affiliation": "Cape Food Ingredients",
+      "priority": 1,
+      "profilePic": "img/speakers/no-image-head.png",
+      "twitter": "@someone",
+      "about": "something"
+    },
+    {
+      "name": "Rob Verhoogt",
+      "affiliation": "FrieslandCampina",
+      "priority": 1,
+      "profilePic": "img/speakers/no-image-head.png",
+      "twitter": "@someone",
+      "about": "something"
+    },
+    {
+      "name": "Wayne V. Wieuwenhuizen",
+      "affiliation": "LionHeart",
+      "priority": 1,
+      "profilePic": "img/speakers/no-image-head.png",
+      "twitter": "@someone",
+      "about": "something"
+    },
+    {
+      "name": "Ryan Ponquett",
+      "affiliation": "Kerry",
       "priority": 1,
       "profilePic": "img/speakers/no-image-head.png",
       "twitter": "@someone",
@@ -78,14 +231,9 @@
   ],
   "locationMappings": [
     {
-      "name": "Room 1",
-      "id": "room1",
+      "name": "Meeting Room 2",
+      "id": "meetingRoom2",
       "color": "#0a485f"
-    },
-    {
-      "name": "Room 2",
-      "id": "room2",
-      "color": "#188faf"
     }
   ]
 }
