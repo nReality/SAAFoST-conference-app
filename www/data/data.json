@@ -506,9 +506,66 @@
   ],
   "sponsors": [
     {
-      "name": "Awesome Company",
-      "imageSrc": "https://robohash.org/awesome",
-      "url": "https://robohash.org"
+      "imageSrc": "http://www.saafost2017.org.za/Sponsorship/Logos/LakeFoods.jpg",
+      "url": "http://www.lake.co.za/"
+    },
+    {
+      "imageSrc": "http://www.saafost2017.org.za/Sponsorship/Logos/CrownIngredientSolutions.jpg",
+      "url": "http://www.bidfoodsolutions.co.za/"
+    },
+    {
+      "imageSrc": "http://www.saafost2017.org.za/Sponsorship/Logos/Compusense.jpg",
+      "url": "https://www.compusense.com/en/"
+    },
+
+    {
+      "imageSrc": "http://www.saafost2017.org.za/Sponsorship/Logos/Sunspray.jpg",
+      "url": "http://www.saafost2017.org.za/Sponsorship/sponsors.asp"
+    },
+
+    {
+      "imageSrc": "http://www.saafost2017.org.za/Sponsorship/Logos/Barentz.jpg",
+      "url": "http://www.barentz.com/"
+    },
+    {
+      "imageSrc": "http://www.saafost2017.org.za/Sponsorship/Logos/CoE.jpg",
+      "url": "http://www.saafost2017.org.za/Sponsorship/sponsors.asp"
+    },
+    {
+      "imageSrc": "http://www.saafost2017.org.za/Sponsorship/Logos/DDW.jpg",
+      "url": "http://www.saafost2017.org.za/Sponsorship/sponsors.asp"
+    },
+    {
+      "imageSrc": "http://www.saafost2017.org.za/Sponsorship/Logos/DSM.jpg",
+      "url": "http://www.dsm.com/corporate/home.html"
+    },
+    {
+      "imageSrc": "http://www.saafost2017.org.za/Exhibition/Logos/DuPont.jpg",
+      "url": "http://www.saafost2017.org.za/Sponsorship/sponsors.asp"
+    },
+    {
+      "imageSrc": "http://www.saafost2017.org.za/Sponsorship/Logos/HilltopFoodIngredients.jpg",
+      "url": "http://www.saafost2017.org.za/Sponsorship/sponsors.asp"
+    },
+    {
+      "imageSrc": "http://www.saafost2017.org.za/Sponsorship/Logos/Kerry.jpg",
+      "url": ""
+    },
+    {
+      "imageSrc": "http://www.saafost2017.org.za/Sponsorship/Logos/ProteaChemicals.jpg",
+      "url": ""
+    },
+    {
+      "imageSrc": "http://www.saafost2017.org.za/Sponsorship/Logos/SaiGlobal.jpg",
+      "url": ""
+    },
+    {
+      "imageSrc": "http://www.saafost2017.org.za/Sponsorship/Logos/Sacnasp.jpg",
+      "url": ""
+    },
+    {
+      "imageSrc": "http://www.saafost2017.org.za/Sponsorship/Logos/WCgov.jpg",
+      "url": ""
     }
   ],
   "map": [
