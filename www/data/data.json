@@ -112,6 +112,15 @@
               "timeEnd": "13:50",
               "speakerNames": [ "Christina Leighton" ],
               "tracks": [ "SASDT - Dairy Research Session" ]
+            },
+            {
+              "name": "Rooibos (Aspalathus linearis)modulates protein-specific antigen secretion, cell growth and glucuronidation in prostate cells",
+              "description": "",
+              "locationId": "room11",
+              "timeStart": "13:30",
+              "timeEnd": "13:50",
+              "tracks": [ "Functional Foods" ],
+              "speakerNames": [ "Therina Du Toit" ]
             }
           ]
         },
@@ -126,6 +135,15 @@
               "timeEnd": "14:10",
               "speakerNames": [ ],
               "tracks": [ "SASDT - Dairy Research Session" ]
+            },
+            {
+                "name": "Advances in analytical methodologies: Assessment of Rooibos as fuctional food ",
+                "description": "",
+                "locationId": "room11",
+                "timeStart": "13:50",
+                "timeEnd": "14:10",
+                "tracks": [ "Functional Foods" ],
+                "speakerNames": [ "Amanda Swart" ]
             }
           ]
         },
@@ -154,6 +172,15 @@
               "timeEnd": "14:30",
               "speakerNames": [ "Charné Kruger" ],
               "tracks": [ "SASDT - Dairy Research Session" ]
+            },
+            {
+                "name": "Properties of maize starch modified with grape pomace phenolic extract under alkaline conditions ",
+                "description": "",
+                "locationId": "room11",
+                "timeStart": "14:10",
+                "timeEnd": "14:30",
+                "tracks": [ "Functional Foods" ],
+                "speakerNames": [ "A.K. Oladele" ]
             }
           ]
         },
@@ -209,6 +236,15 @@
               "tracks": [ "Food Chemistry" ],
               "timeStart": "16:20",
               "timeEnd": "16:40"
+            },
+            {
+                "name": "Relationship between waxy and high protein digestibility traits in sorghum and malting quality ",
+                "description": "",
+                "locationId": "room11",
+                "timeStart": "16:20",
+                "timeEnd": "16:40",
+                "tracks": [ "Food & Nutrition Security and Novel Proteins " ],
+                "speakerNames": [ "Abadi G. Mezgebe" ]
             }
           ]
         },
@@ -222,6 +258,15 @@
               "timeStart": "16:40",
               "timeEnd": "17:00",
               "speakerNames": [ "Chantelle Human" ]
+            },
+            {
+                "name": "Flow properties of commercial and indigenous / local complementary foods in South Africa ",
+                "description": "",
+                "locationId": "room11",
+                "timeStart": "16:40",
+                "timeEnd": "17:00",
+                "tracks": [ "Food & Nutrition Security and Novel Proteins " ],
+                "speakerNames": [ "James Makame " ]
             }
           ]
         },
@@ -235,6 +280,15 @@
               "timeStart": "17:00",
               "timeEnd": "17:20",
               "speakerNames": [ "Segun Isaac Oguntoyinbo" ]
+            },
+            {
+                "name": "The techno-functionality of casein-glucose conjugates",
+                "description": "",
+                "locationId": "room11",
+                "timeStart": "17:00",
+                "timeEnd": "17:20",
+                "tracks": [ "Food & Nutrition Security and Novel Proteins " ],
+                "speakerNames": [ "Jessy Van Wyk " ]
             }
           ]
         },
@@ -248,6 +302,15 @@
               "timeStart": "17:20",
               "timeEnd": "17:40",
               "speakerNames": [ "Illunga Joelle Kongolo" ]
+            },
+            {
+                "name": "Bambara storage protein-polysaccharide complexes as nano-encapsulating matrix for bioactive compounds: The influence of pH fractionation",
+                "description": "",
+                "locationId": "room11",
+                "timeStart": "17:20",
+                "timeEnd": "17:40",
+                "tracks": [ "Food & Nutrition Security and Novel Proteins " ],
+                "speakerNames": [ "Nyasha Busu" ]
             }
           ]
         },
@@ -280,6 +343,15 @@
               "timeStart": "10:25",
               "timeEnd": "10:45",
               "speakerNames": [ "Manuel Sergi" ]
+            },
+            {
+              "name": "Lipases and their role in baking ",
+              "description": "",
+              "locationId": "room11",
+              "timeStart": "10:25",
+              "timeEnd": "10:45",
+              "tracks": [ "Food processing, novel technologies, innovation and product development I" ],
+              "speakerNames": [ "Caroline van Benschop" ]
             }
           ]
         },
@@ -293,6 +365,15 @@
               "timeStart": "10:45",
               "timeEnd": "11:05",
               "speakerNames": [ "Dario Compagnone" ]
+            },
+            {
+              "name": "Influence of fine and medium wheat bran incorporation on oil reduction and other quality parameters of magwinya",
+              "description": "",
+              "locationId": "room11",
+              "timeStart": "10:45",
+              "timeEnd": "11:05",
+              "tracks": [ "Food processing, novel technologies, innovation and product development I" ],
+              "speakerNames": [ "Oluwatoyin Onipe" ]
             }
           ]
         },
@@ -320,6 +401,15 @@
               "timeStart": "11:05",
               "timeEnd": "11:25",
               "speakerNames": [ "Dario Compagnone" ]
+            },
+            {
+              "name": "The effect of laccase on the physical, functional and sensory properties of gluten free amadumbe bread ",
+              "description": "",
+              "locationId": "room11",
+              "timeStart": "11:05",
+              "timeEnd": "11:25",
+              "tracks": [ "Food processing, novel technologies, innovation and product development I" ],
+              "speakerNames": [ "Faith Seke" ]
             }
           ]
         },
@@ -333,6 +423,15 @@
               "timeStart": "11:25",
               "timeEnd": "11:45",
               "speakerNames": [ "Richard Majewski" ]
+            },
+            {
+              "name": "Biofilms, the hidden enemies of the food industry ",
+              "description": "",
+              "locationId": "room11",
+              "timeStart": "11:25",
+              "timeEnd": "11:45",
+              "tracks": [ "Food processing, novel technologies, innovation and product development I" ],
+              "speakerNames": [ "Irene Ylla" ]
             }
           ]
         },
@@ -374,6 +473,15 @@
               "timeStart": "12:45",
               "timeEnd": "13:05",
               "speakerNames": [ "Kate Sendin" ]
+            },
+            {
+              "name": "Contribution of inherent phenolic sub-classes to bitter taste of honeybush (Cyclopia genistoides)",
+              "description": "",
+              "locationId": "room11",
+              "timeStart": "12:45",
+              "timeEnd": "13:05",
+              "tracks": [ "Sensory Science & Analysis I " ],
+              "speakerNames": [ "Lara Alexander " ]
             }
           ]
         },
@@ -387,6 +495,15 @@
               "timeStart": "13:05",
               "timeEnd": "13:25",
               "speakerNames": [ "Tabea Mokhele" ]
+            },
+            {
+              "name": "Application of species-specific honeybush sensory baseline data for selection of superior quality C. subternata plant material ",
+              "description": "",
+              "locationId": "room11",
+              "timeStart": "13:05",
+              "timeEnd": "13:25",
+              "tracks": [ "Sensory Science & Analysis I " ],
+              "speakerNames": [ "Louise Robertson" ]
             }
           ]
         },
@@ -414,6 +531,15 @@
               "timeStart": "13:25",
               "timeEnd": "13:45",
               "speakerNames": [ "Ganiyat Olatunde" ]
+            },
+            {
+              "name": "Exploring projective mapping as sensory screening tool for application by the honeybush herbal tea idustry ",
+              "description": "",
+              "locationId": "room11",
+              "timeStart": "13:25",
+              "timeEnd": "13:45",
+              "tracks": [ "Sensory Science & Analysis I " ],
+              "speakerNames": [ "Erika Moelich " ]
             }
           ]
         },
@@ -427,6 +553,15 @@
               "timeStart": "13:45",
               "timeEnd": "14:05",
               "speakerNames": [ "Stefan Hayward" ]
+            },
+            {
+              "name": "Unroasted coffee beans, roasted coffee beans, masala tea and parmesan cheese - method in a box GC - TOFMS volatile profiling",
+              "description": "",
+              "locationId": "room11",
+              "timeStart": "13:45",
+              "timeEnd": "14:05",
+              "tracks": [ "Sensory Science & Analysis I " ],
+              "speakerNames": [ "Mark Pieterse" ]
             }
           ]
         },
@@ -454,6 +589,15 @@
               "timeStart": "14:30",
               "timeEnd": "14:50",
               "speakerNames": [ "Brigitte Von Pressentin du Preez " ]
+            },
+            {
+              "name": "Multi-sensory properties of malt extracts",
+              "description": "",
+              "locationId": "room11",
+              "timeStart": "14:30",
+              "timeEnd": "14:50",
+              "tracks": [ "Food processing, novel technologies, innovation and product development III" ],
+              "speakerNames": [ "Christian Benetka Uher" ]
             }
           ]
         },
@@ -481,6 +625,15 @@
               "timeStart": "14:50",
               "timeEnd": "15:10",
               "speakerNames": [ "Aruna Singh" ]
+            },
+            {
+              "name": "Effect of roselle extracts on quality characteristics of ice cream ",
+              "description": "",
+              "locationId": "room11",
+              "timeStart": "14:50",
+              "timeEnd": "15:10",
+              "tracks": [ "Food processing, novel technologies, innovation and product development III" ],
+              "speakerNames": [ "Thakhani Milva Singo" ]
             }
           ]
         },
@@ -494,6 +647,15 @@
               "timeStart": "15:10",
               "timeEnd": "15:30",
               "speakerNames": [ "Clymie Abrahams" ]
+            },
+            {
+              "name": "Colloidal Cellulose gel: stabilizing food at extreme conditions ",
+              "description": "",
+              "locationId": "room11",
+              "timeStart": "15:10",
+              "timeEnd": "15:30",
+              "tracks": [ "Food processing, novel technologies, innovation and product development III" ],
+              "speakerNames": [ "Aynur Celik" ]
             }
           ]
         },
@@ -516,6 +678,15 @@
               "timeStart": "15:30",
               "timeEnd": "15:50",
               "speakerNames": [ "Christian Benetke" ]
+            },
+            {
+              "name": "Consumers' perceptions of a South African premium private label retailer's innovativeness within a selected foods category",
+              "description": "",
+              "locationId": "room11",
+              "timeStart": "15:30",
+              "timeEnd": "15:50",
+              "tracks": [ "Food processing, novel technologies, innovation and product development III" ],
+              "speakerNames": [ "Marli Roberts " ]
             }
           ]
         },
@@ -558,6 +729,15 @@
               "timeStart": "11:00",
               "timeEnd": "11:20",
               "speakerNames": [ "Itumeleng Matle" ]
+            },
+            {
+              "name": "Does precautionary allergen labeling (PAL) convey real or perceived risk?",
+              "description": "",
+              "locationId": "room11",
+              "timeStart": "11:00",
+              "timeEnd": "11:20",
+              "tracks": [ "Food safety & microbiology I" ],
+              "speakerNames": [ "Harris Steinmann" ]
             }
           ]
         },
@@ -571,6 +751,15 @@
               "timeStart": "11:20",
               "timeEnd": "11:40",
               "speakerNames": [ "Michaela van den Honert" ]
+            },
+            {
+              "name": "Food safety culture: The next frontier in food safety? ",
+              "description": "",
+              "locationId": "room11",
+              "timeStart": "11:20",
+              "timeEnd": "11:40",
+              "tracks": [ "Food safety & microbiology I" ],
+              "speakerNames": [ "Rolf Uys" ]
             }
           ]
         },
@@ -593,6 +782,15 @@
               "timeStart": "11:40",
               "timeEnd": "12:00",
               "speakerNames": [ "Sin Mei Tan" ]
+            },
+            {
+              "name": "Consumer perception of the quality and safety of raw chicken meat in South Africa: a pilot study",
+              "description": "",
+              "locationId": "room11",
+              "timeStart": "11:40",
+              "timeEnd": "12:00",
+              "tracks": [ "Food safety & microbiology I" ],
+              "speakerNames": [ "Wendy Katiyo" ]
             }
           ]
         },
@@ -606,6 +804,15 @@
               "timeStart": "12:00",
               "timeEnd": "12:20",
               "speakerNames": [ "Arno Hugo" ]
+            },
+            {
+              "name": "A review of food safety management system implementation in South Africa - a decade on",
+              "description": "",
+              "locationId": "room11",
+              "timeStart": "12:00",
+              "timeEnd": "12:20",
+              "tracks": [ "Food safety & microbiology I" ],
+              "speakerNames": [ "Linda Jackson" ]
             }
           ]
         },
@@ -642,6 +849,15 @@
               "timeStart": "13:20",
               "timeEnd": "13:40",
               "speakerNames": [ "Ranil Coorey" ]
+            },
+            {
+              "name": "Optimisation of spray-drying of green rooibos extract using quality-by-design methodology",
+              "description": "",
+              "locationId": "room11",
+              "timeStart": "13:20",
+              "timeEnd": "13:40",
+              "tracks": [ "Food processing, novel technologies, innovation and product development IV" ],
+              "speakerNames": [ "Neil Miller" ]
             }
           ]
         },
@@ -655,6 +871,15 @@
               "timeStart": "13:40",
               "timeEnd": "14:00",
               "speakerNames": [ "Victor Ntuli" ]
+            },
+            {
+              "name": "Comparative study of encapsulating ascorbyl palmitate in maize starch using pasting and spray drying methods",
+              "description": "",
+              "locationId": "room11",
+              "timeStart": "13:40",
+              "timeEnd": "14:00",
+              "tracks": [ "Food processing, novel technologies, innovation and product development IV" ],
+              "speakerNames": [ "Oluwaseun Peter Bamidele" ]
             }
           ]
         },
@@ -677,6 +902,15 @@
               "timeStart": "14:00",
               "timeEnd": "14:20",
               "speakerNames": [ "Linda Jackson" ]
+            },
+            {
+              "name": "Application of science and technology by the South African food and beverage manufacturing industry since 1994",
+              "description": "",
+              "locationId": "room11",
+              "timeStart": "14:00",
+              "timeEnd": "14:20",
+              "tracks": [ "Food processing, novel technologies, innovation and product development IV" ],
+              "speakerNames": [ "Lisa-Claire Ronquest-Ross " ]
             }
           ]
         },
@@ -690,6 +924,15 @@
               "timeStart": "14:20",
               "timeEnd": "14:40",
               "speakerNames": [ "Gerrie Du Rand" ]
+            },
+            {
+              "name": "Heating medium as a factor affecting process optimization in thermal processing ",
+              "description": "",
+              "locationId": "room11",
+              "timeStart": "14:20",
+              "timeEnd": "14:40",
+              "tracks": [ "Food processing, novel technologies, innovation and product development IV" ],
+              "speakerNames": [ "Susan Featherstone" ]
             }
           ]
         },
