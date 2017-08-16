@@ -17,35 +17,303 @@
   },
   "schedule": [
     {
-      "date": "TBA",
+      "date": "Monday",
       "groups": [
         {
-          "time": "7:30 am",
+          "time": "11:00",
           "sessions": [
             {
-              "name": "Lean Coffee",
+              "name": "Sea Salt - With naturally reduced sodium",
+              "description": "",
               "locationId": "meetingRoom2",
-              "description": "Coffe and the space proudly sponsored by agile42.",
-              "timeStart": "7:30 am",
-              "timeEnd": "8:30 am",
-              "tracks": [
-                "Lean Coffee"
-              ]
+              "timeStart": "11:00",
+              "timeEnd": "11:30",
+              "tracks": [ "Product Theatre" ]
             }
           ]
         },
         {
-          "time": "11:30 am",
+          "time": "11:40",
           "sessions": [
             {
-              "name": "Lean Tea",
+              "name": "Sugar reduction - Latest formulation technologies",
+              "description": "",
               "locationId": "meetingRoom2",
-              "description": "Coffe and the space proudly sponsored by agile42.",
-              "timeStart": "7:30 am",
-              "timeEnd": "8:30 am",
-              "tracks": [
-                "Lean Coffee"
-              ]
+              "timeStart": "11:40",
+              "timeEnd": "12:10",
+              "tracks": [ "Product Theatre" ]
+            }
+          ]
+        },
+        {
+          "time": "12:20",
+          "sessions": [
+            {
+              "name": "Extracted dietary fibers and cellulose derivatives in health oriented trend food",
+              "description": "",
+              "locationId": "meetingRoom2",
+              "timeStart": "12:20",
+              "timeEnd": "12:50",
+              "tracks": [ "Product Theatre" ]
+            }
+          ]
+        },
+        {
+          "time": "13:20",
+          "sessions": [
+            {
+              "name": "Smoked food: Ancient technology adapted for 21st century",
+              "description": "",
+              "locationId": "meetingRoom2",
+              "timeStart": "13:20",
+              "timeEnd": "13:50",
+              "tracks": [ "Product Theatre" ]
+            }
+          ]
+        },
+        {
+          "time": "14:00",
+          "sessions": [
+            {
+              "name": "Unveiling the mysteries behind the universal love of cheese - The westerner's \"Kokumi\"",
+              "description": "",
+              "locationId": "meetingRoom2",
+              "timeStart": "14:00",
+              "timeEnd": "14:30",
+              "tracks": [ "Product Theatre" ]
+            }
+          ]
+        },
+        {
+          "time": "14:40",
+          "sessions": [
+            {
+              "name": "SODA-LO®  Salt Microspheres to reduce salt in foods, preserving a clean taste and clear label - Case studies in bread and snacks application",
+              "description": "",
+              "locationId": "meetingRoom2",
+              "timeStart": "14:40",
+              "timeEnd": "15:10",
+              "tracks": [ "Product Theatre" ]
+            }
+          ]
+        },
+        {
+          "time": "15:30",
+          "sessions": [
+            {
+              "name": "Free from: trends in the food space - 2017",
+              "description": "",
+              "locationId": "meetingRoom2",
+              "timeStart": "15:30",
+              "timeEnd": "16:00",
+              "tracks": [ "Product Theatre" ]
+            }
+          ]
+        },
+        {
+          "time": "16:10",
+          "sessions": [
+            {
+              "name": "Food phosphates in dairy application",
+              "description": "",
+              "locationId": "meetingRoom2",
+              "timeStart": "16:10",
+              "timeEnd": "16:40",
+              "tracks": [ "Product Theatre" ]
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "date": "Tuesday",
+      "groups": [
+        {
+          "time": "11:00",
+          "sessions": [
+            {
+              "name": "Colouring foods - global trends",
+              "description": "",
+              "locationId": "meetingRoom2",
+              "timeStart": "11:00",
+              "timeEnd": "11:30",
+              "tracks": [ "Product Theatre" ]
+            }
+          ]
+        },
+        {
+          "time": "11:40",
+          "sessions": [
+            {
+              "name": "Controlled release of ingredients via speciality encapsulation - Case study on sorbic acid",
+              "description": "",
+              "locationId": "meetingRoom2",
+              "timeStart": "11:40",
+              "timeEnd": "12:10",
+              "tracks": [ "Product Theatre" ]
+            }
+          ]
+        },
+        {
+          "time": "12:20",
+          "sessions": [
+            {
+              "name": "Recent developments in the field sweeteners and their use in the replacement of sugar in foods and beverages ",
+              "description": "",
+              "locationId": "meetingRoom2",
+              "timeStart": "12:20",
+              "timeEnd": "12:50",
+              "tracks": [ "Product Theatre" ]
+            }
+          ]
+        },
+        {
+          "time": "13:20",
+          "sessions": [
+            {
+              "name": "Soluble fibres: Innovative ingredients for calorie reduction and health benefits",
+              "description": "",
+              "locationId": "meetingRoom2",
+              "timeStart": "13:20",
+              "timeEnd": "13:50",
+              "tracks": [ "Product Theatre" ]
+            }
+          ]
+        },
+        {
+          "time": "14:00",
+          "sessions": [
+            {
+              "name": "Long life yoghurt for Africa opportunities, challenges and solutions",
+              "description": "",
+              "locationId": "meetingRoom2",
+              "timeStart": "14:00",
+              "timeEnd": "14:30",
+              "tracks": [ "Product Theatre" ]
+            }
+          ]
+        },
+        {
+          "time": "14:40",
+          "sessions": [
+            {
+              "name": "The importance of protein",
+              "description": "",
+              "locationId": "meetingRoom2",
+              "timeStart": "14:40",
+              "timeEnd": "15:10",
+              "tracks": [ "Product Theatre" ]
+            }
+          ]
+        },
+        {
+          "time": "15:30",
+          "sessions": [
+            {
+              "name": "TBA",
+              "description": "",
+              "locationId": "meetingRoom2",
+              "timeStart": "15:30",
+              "timeEnd": "16:00",
+              "tracks": [ "Product Theatre" ]
+            }
+          ]
+        },
+        {
+          "time": "16:10",
+          "sessions": [
+            {
+              "name": "Sugar reduction - Natural & cost effective",
+              "description": "",
+              "locationId": "meetingRoom2",
+              "timeStart": "16:10",
+              "timeEnd": "16:40",
+              "tracks": [ "Product Theatre" ]
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "date": "Wednesday",
+      "groups": [
+        {
+          "time": "11:00",
+          "sessions": [
+            {
+              "name": "New solutions to replace titanium dioxide",
+              "description": "",
+              "locationId": "meetingRoom2",
+              "timeStart": "11:00",
+              "timeEnd": "11:30",
+              "tracks": [ "Product Theatre" ]
+            }
+          ]
+        },
+        {
+          "time": "11:40",
+          "sessions": [
+            {
+              "name": "Sensory evaluation: Getting marketing and NPD to speak the same language (interactive presentation)",
+              "description": "",
+              "locationId": "meetingRoom2",
+              "timeStart": "11:40",
+              "timeEnd": "12:10",
+              "tracks": [ "Product Theatre" ]
+            }
+          ]
+        },
+        {
+          "time": "12:20",
+          "sessions": [
+            {
+              "name": "Vana Cappa: Innovative beverage foamer technology",
+              "description": "",
+              "locationId": "meetingRoom2",
+              "timeStart": "12:20",
+              "timeEnd": "12:50",
+              "tracks": [ "Product Theatre" ]
+            }
+          ]
+        },
+        {
+          "time": "13:20",
+          "sessions": [
+            {
+              "name": "True taste stock concentrates - From food, for food",
+              "description": "",
+              "locationId": "meetingRoom2",
+              "timeStart": "13:20",
+              "timeEnd": "13:50",
+              "tracks": [ "Product Theatre" ]
+            }
+          ]
+        },
+        {
+          "time": "14:00",
+          "sessions": [
+            {
+              "name": "Finding the niche in an overcrowded flavour supply environment. The Curt Georgi flavouring opportunity",
+              "description": "",
+              "locationId": "meetingRoom2",
+              "timeStart": "14:00",
+              "timeEnd": "14:30",
+              "tracks": [ "Product Theatre" ]
+            }
+          ]
+        },
+        {
+          "time": "14:40",
+          "sessions": [
+            {
+              "name": "\"TasteSense\"- Overcoming the latest challenges to help address consumer needs",
+              "description": "",
+              "locationId": "meetingRoom2",
+              "timeStart": "14:40",
+              "timeEnd": "15:10",
+              "tracks": [ "Product Theatre" ]
             }
           ]
         }
