@@ -2,16 +2,16 @@
   "name": "SAAFoST 2017",
   "description": "SAAFoST Congress 2017",
   "about": {
-    "imageSrc": "https://robohash.org/happy",
+    "imageSrc": "http://www.saafost.org.za/images/logo_saafost_main.jpg",
     "heading":"SAAFoST Congress 2017",
-    "subHeading": "Time to shine",
-    "description": "Awesome Conference oh yea!",
-    "website": "",
+    "subHeading": "A hunger for change: innovations, solutions and emerging technologies",
+    "description": "The theme of the congress, \"A hunger for change: innovations, solutions and emerging technologies\" will form a framework to explore solutions to the many challenges that food professionals face in the mission to provide a sustainable supply of safe, satisfying and healthy food.",
+    "website": "http://www.saafost2017.org.za/",
     "links": [
       {
-        "linkText": "Book",
-        "text": "tickets",
-        "link": "https://robohash.org"
+        "linkText": "Register now",
+        "text": "",
+        "link": "http://www.saafost2017.org.za/registration.asp"
       }
     ]
   },
@@ -506,16 +506,73 @@
   ],
   "sponsors": [
     {
-      "name": "Awesome Company",
-      "imageSrc": "https://robohash.org/awesome",
-      "url": "https://robohash.org"
+      "imageSrc": "http://www.saafost2017.org.za/Sponsorship/Logos/LakeFoods.jpg",
+      "url": "http://www.lake.co.za/"
+    },
+    {
+      "imageSrc": "http://www.saafost2017.org.za/Sponsorship/Logos/CrownIngredientSolutions.jpg",
+      "url": "http://www.bidfoodsolutions.co.za/"
+    },
+    {
+      "imageSrc": "http://www.saafost2017.org.za/Sponsorship/Logos/Compusense.jpg",
+      "url": "https://www.compusense.com/en/"
+    },
+
+    {
+      "imageSrc": "http://www.saafost2017.org.za/Sponsorship/Logos/Sunspray.jpg",
+      "url": "http://www.saafost2017.org.za/Sponsorship/sponsors.asp"
+    },
+
+    {
+      "imageSrc": "http://www.saafost2017.org.za/Sponsorship/Logos/Barentz.jpg",
+      "url": "http://www.barentz.com/"
+    },
+    {
+      "imageSrc": "http://www.saafost2017.org.za/Sponsorship/Logos/CoE.jpg",
+      "url": "http://www.saafost2017.org.za/Sponsorship/sponsors.asp"
+    },
+    {
+      "imageSrc": "http://www.saafost2017.org.za/Sponsorship/Logos/DDW.jpg",
+      "url": "http://www.saafost2017.org.za/Sponsorship/sponsors.asp"
+    },
+    {
+      "imageSrc": "http://www.saafost2017.org.za/Sponsorship/Logos/DSM.jpg",
+      "url": "http://www.dsm.com/corporate/home.html"
+    },
+    {
+      "imageSrc": "http://www.saafost2017.org.za/Exhibition/Logos/DuPont.jpg",
+      "url": "http://www.saafost2017.org.za/Sponsorship/sponsors.asp"
+    },
+    {
+      "imageSrc": "http://www.saafost2017.org.za/Sponsorship/Logos/HilltopFoodIngredients.jpg",
+      "url": "http://www.saafost2017.org.za/Sponsorship/sponsors.asp"
+    },
+    {
+      "imageSrc": "http://www.saafost2017.org.za/Sponsorship/Logos/Kerry.jpg",
+      "url": ""
+    },
+    {
+      "imageSrc": "http://www.saafost2017.org.za/Sponsorship/Logos/ProteaChemicals.jpg",
+      "url": ""
+    },
+    {
+      "imageSrc": "http://www.saafost2017.org.za/Sponsorship/Logos/SaiGlobal.jpg",
+      "url": ""
+    },
+    {
+      "imageSrc": "http://www.saafost2017.org.za/Sponsorship/Logos/Sacnasp.jpg",
+      "url": ""
+    },
+    {
+      "imageSrc": "http://www.saafost2017.org.za/Sponsorship/Logos/WCgov.jpg",
+      "url": ""
     }
   ],
   "map": [
     {
-      "name": "dunno",
-      "lat": -33.9353866,
-      "lng": 18.4550375,
+      "name": "Century City Conference Centre, Cape Town",
+      "lat": -33.89606,
+      "lng": 18.5025867,
       "center": true
     }
   ],
