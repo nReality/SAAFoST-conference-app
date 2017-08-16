@@ -28,6 +28,7 @@
               "locationId": "meetingRoom2",
               "timeStart": "11:00",
               "timeEnd": "11:30",
+              "speakerNames": [ "Nico Basson" ],
               "tracks": [ "Product Theatre" ]
             }
           ]
@@ -41,6 +42,7 @@
               "locationId": "meetingRoom2",
               "timeStart": "11:40",
               "timeEnd": "12:10",
+              "speakerNames": [ "Brian Lanton" ],
               "tracks": [ "Product Theatre" ]
             }
           ]
@@ -54,6 +56,7 @@
               "locationId": "meetingRoom2",
               "timeStart": "12:20",
               "timeEnd": "12:50",
+              "speakerNames": [ "Stefan Schmitt-Rechlin" ],
               "tracks": [ "Product Theatre" ]
             }
           ]
@@ -67,6 +70,7 @@
               "locationId": "meetingRoom2",
               "timeStart": "13:20",
               "timeEnd": "13:50",
+              "speakerNames": [ "Thapelo Mashego" ],
               "tracks": [ "Product Theatre" ]
             }
           ]
@@ -80,6 +84,7 @@
               "locationId": "meetingRoom2",
               "timeStart": "14:00",
               "timeEnd": "14:30",
+              "speakerNames": [ "Martin Dovey" ],
               "tracks": [ "Product Theatre" ]
             }
           ]
@@ -93,6 +98,7 @@
               "locationId": "meetingRoom2",
               "timeStart": "14:40",
               "timeEnd": "15:10",
+              "speakerNames": [ "Lacques Masset" ],
               "tracks": [ "Product Theatre" ]
             }
           ]
@@ -106,6 +112,7 @@
               "locationId": "meetingRoom2",
               "timeStart": "15:30",
               "timeEnd": "16:00",
+              "speakerNames": [ "Mohamed Ashraf" ],
               "tracks": [ "Product Theatre" ]
             }
           ]
@@ -119,6 +126,7 @@
               "locationId": "meetingRoom2",
               "timeStart": "16:10",
               "timeEnd": "16:40",
+              "speakerNames": [ "Gavin Keeling", "Audace Nindorera" ],
               "tracks": [ "Product Theatre" ]
             }
           ]
@@ -138,6 +146,7 @@
               "locationId": "meetingRoom2",
               "timeStart": "11:00",
               "timeEnd": "11:30",
+              "speakerNames": [ "Patricia Kruger" ],
               "tracks": [ "Product Theatre" ]
             }
           ]
@@ -151,6 +160,7 @@
               "locationId": "meetingRoom2",
               "timeStart": "11:40",
               "timeEnd": "12:10",
+              "speakerNames": [ "Janis Sinton" ],
               "tracks": [ "Product Theatre" ]
             }
           ]
@@ -164,6 +174,7 @@
               "locationId": "meetingRoom2",
               "timeStart": "12:20",
               "timeEnd": "12:50",
+              "speakerNames": [ "Mary Quinlan" ],
               "tracks": [ "Product Theatre" ]
             }
           ]
@@ -177,6 +188,7 @@
               "locationId": "meetingRoom2",
               "timeStart": "13:20",
               "timeEnd": "13:50",
+              "speakerNames": [ "Kavinta Karnik" ],
               "tracks": [ "Product Theatre" ]
             }
           ]
@@ -190,6 +202,7 @@
               "locationId": "meetingRoom2",
               "timeStart": "14:00",
               "timeEnd": "14:30",
+              "speakerNames": [ "Brett Wordon" ],
               "tracks": [ "Product Theatre" ]
             }
           ]
@@ -203,6 +216,7 @@
               "locationId": "meetingRoom2",
               "timeStart": "14:40",
               "timeEnd": "15:10",
+              "speakerNames": [ "Garry Mendelson" ],
               "tracks": [ "Product Theatre" ]
             }
           ]
@@ -216,6 +230,7 @@
               "locationId": "meetingRoom2",
               "timeStart": "15:30",
               "timeEnd": "16:00",
+              "speakerNames": [ ],
               "tracks": [ "Product Theatre" ]
             }
           ]
@@ -229,6 +244,7 @@
               "locationId": "meetingRoom2",
               "timeStart": "16:10",
               "timeEnd": "16:40",
+              "speakerNames": [ "Judy Day" ],
               "tracks": [ "Product Theatre" ]
             }
           ]
@@ -248,6 +264,7 @@
               "locationId": "meetingRoom2",
               "timeStart": "11:00",
               "timeEnd": "11:30",
+              "speakerNames": [ "Patricia Kruger" ],
               "tracks": [ "Product Theatre" ]
             }
           ]
@@ -261,6 +278,7 @@
               "locationId": "meetingRoom2",
               "timeStart": "11:40",
               "timeEnd": "12:10",
+              "speakerNames": [ "Ashwin Lala" ],
               "tracks": [ "Product Theatre" ]
             }
           ]
@@ -274,6 +292,7 @@
               "locationId": "meetingRoom2",
               "timeStart": "12:20",
               "timeEnd": "12:50",
+              "speakerNames": [ "Rob Verhoogt" ],
               "tracks": [ "Product Theatre" ]
             }
           ]
@@ -287,6 +306,7 @@
               "locationId": "meetingRoom2",
               "timeStart": "13:20",
               "timeEnd": "13:50",
+              "speakerNames": [ "Martin Dovey" ],
               "tracks": [ "Product Theatre" ]
             }
           ]
@@ -300,6 +320,7 @@
               "locationId": "meetingRoom2",
               "timeStart": "14:00",
               "timeEnd": "14:30",
+              "speakerNames": [ "Wayne V. Wieuwenhuizen" ],
               "tracks": [ "Product Theatre" ]
             }
           ]
@@ -313,6 +334,7 @@
               "locationId": "meetingRoom2",
               "timeStart": "14:40",
               "timeEnd": "15:10",
+              "speakerNames": [ "Ryan Ponquett" ],
               "tracks": [ "Product Theatre" ]
             }
           ]
