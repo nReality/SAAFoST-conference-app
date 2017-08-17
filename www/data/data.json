@@ -348,6 +348,15 @@
               "timeEnd": "14:10",
               "speakerNames": [ ],
               "tracks": [ "SASDT - Dairy Research Session" ]
+            },
+            {
+              "name": "Unveiling the mysteries behind the universal love of cheese - The westerner's 'Kokumi'",
+              "description": "",
+              "locationId": "meetingRoom2",
+              "timeStart": "14:00",
+              "timeEnd": "14:30",
+              "speakerNames": [ "Martin Dovey" ],
+              "tracks": [ "Product Theatre" ]
             }
           ]
         },
