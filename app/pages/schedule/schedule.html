@@ -15,7 +15,7 @@
 
   <ion-toolbar class="toggletoolbar" no-border-top>
 
-    <table width="100%">
+    <table style="table-layout: fixed;" width="100%">
       <tr>
         <td *ngFor="let location of locations" class="scheduletoggle">
           <button (click)="toggleLocation(location.id)" [outline]="location.hide" class="scheduletogglebutton" small block [ngStyle]="{'background-color': getLocationBackgroungColor(location), 'color': getLocationColor(location), 'border-color': getLocationColor(location) }">{{location.name}}</button>
