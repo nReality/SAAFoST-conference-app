@@ -1,5 +1,8 @@
 <ion-header>
   <ion-navbar>
+    <button menuToggle>
+      <ion-icon name="menu"></ion-icon>
+    </button>
     <ion-title>Sponsors</ion-title>
 
   </ion-navbar>
@@ -14,21 +17,18 @@
 
 <ion-content padding class="sponsor-info">
   <h3 text-center>
-    This community conference is proudly sponsored by:
+    This conference is proudly sponsored by:
   </h3>
 
   <br/>
-  <div *ngFor="let group of sponsors">
-    <h2 text-center>{{group.groupName}}</h2>
-    <div *ngFor="let sponsor of group.sponsors">
-        <a href="#" (click)="openPagInNewWindow(sponsor.url)">
-            <img [src]="sponsor.imageSrc" width="200px">
-        </a>
-    </div>
-    <hr />
+  <div *ngFor="let sponsor of sponsors">
+    <h3 text-center>{{sponsor.name}}</h3>
+    <a href="#">
+        <img [src]="sponsor.imageSrc">
+    </a>
   </div>
  <br/>
   <h6 text-center>This hybrid app is an open source contribution by <a href="#"onclick="window.open('http://www.nreality.com/', '_system', 'location=yes'); return false;">nReality</a> based on <a href="#" onclick="window.open('https://github.com/driftyco/ionic-conference-app', '_system', 'location=yes'); return false;">Driftyco's Ionic 2 demo</a>. Feel free to fork it for your own conference or send us a pull request to modify at
-  <a href="#" onclick="window.open('https://github.com/nReality/agile-africa-2017', '_system', 'location=yes'); return false;">https://github.com/nReality/agile-africa-2017</a>.</h6>
+  <a href="#" onclick="window.open('https://github.com/nReality/SAAFoST-conference-app', '_system', 'location=yes'); return false;">https://github.com/nReality/SAAFoST-conference-app</a>.</h6>
 
 </ion-content>
