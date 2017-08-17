@@ -3072,17 +3072,17 @@
     {
       "name": "Room 2",
       "id": "meetingRoom2",
-      "color": "#321D5E"
+      "color": "#244E6E"
     },
     {
       "name": "Room 8+9",
       "id": "room8_9",
-      "color": "#321D5E"
+      "color": "#244E6E"
     },
     {
       "name": "Room 11",
       "id": "room11",
-      "color": "#321D5E"
+      "color": "#244E6E"
     }
   ]
 }
