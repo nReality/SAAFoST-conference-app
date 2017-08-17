@@ -3057,32 +3057,32 @@
     {
       "name": "Exhibition Hall",
       "id": "exhibitionHall",
-      "color": "#0a485f"
+      "color": "#321D5E"
     },
     {
       "name": "Hall A+B",
       "id": "hallAB",
-      "color": "#0a485f"
+      "color": "#321D5E"
     },
     {
-      "name": "Hall C ",
+      "name": "Hall C",
       "id": "hallC",
-      "color": "#0a485f"
-    },
-    {
-      "name": "Room 11",
-      "id": "room11",
-      "color": "#0a485f"
-    },
-    {
-      "name": "Room 8+9",
-      "id": "room8_9",
-      "color": "#0a485f"
+      "color": "#321D5E"
     },
     {
       "name": "Room 2",
       "id": "meetingRoom2",
-      "color": "#0a485f"
+      "color": "#321D5E"
+    },
+    {
+      "name": "Room 8+9",
+      "id": "room8_9",
+      "color": "#321D5E"
+    },
+    {
+      "name": "Room 11",
+      "id": "room11",
+      "color": "#321D5E"
     }
   ]
 }
