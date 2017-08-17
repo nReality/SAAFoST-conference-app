@@ -3065,12 +3065,12 @@
       "color": "#83B47F"
     },
     {
-      "name": "Hall C",
+      "name": "Hall C&nbsp;&nbsp;",
       "id": "hallC",
       "color": "#83B47F"
     },
     {
-      "name": "Room 2",
+      "name": "Room 2&nbsp;&nbsp;",
       "id": "meetingRoom2",
       "color": "#244E6E"
     },
@@ -3080,7 +3080,7 @@
       "color": "#244E6E"
     },
     {
-      "name": "Room 11",
+      "name": "Room 11&nbsp;",
       "id": "room11",
       "color": "#244E6E"
     }
