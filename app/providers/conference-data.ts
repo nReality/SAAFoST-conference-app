@@ -44,7 +44,7 @@ export class ConferenceData {
           });
       }
 
-      this.http.get('https://api.github.com/repos/nreality/agile-africa-2017/git/refs/heads/master')
+      this.http.get('https://api.github.com/repos/nreality/SAAFoST-conference-app/git/refs/heads/master')
       .subscribe(res => {
         let result = res.json();
         console.log(result);
@@ -54,7 +54,7 @@ export class ConferenceData {
             console.log('data still fine, using saved data');
         } else {
             console.log('data outdated, loading new');
-            this.http.get('https://raw.githubusercontent.com/nReality/agile-africa-2017/' + latestCommit +'/www/data/data.json').subscribe(res => {
+            this.http.get('https://raw.githubusercontent.com/nReality/SAAFoST-conference-app/' + latestCommit +'/www/data/data.json').subscribe(res => {
               this.processResponse(res, latestCommit, resolve);
           }, fallback);
         }
