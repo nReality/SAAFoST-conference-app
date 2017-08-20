@@ -3060,17 +3060,17 @@
     {
       "name": " Hall C ",
       "id": "hallC",
-      "color": "#83B47F"
+      "color": "#1E961E"
     },
     {
       "name": " Room 2 ",
       "id": "meetingRoom2",
-      "color": "#244E6E"
+      "color": "#0000CC"
     },
     {
       "name": "Room 8+9",
       "id": "room8_9",
-      "color": "#244E6E"
+      "color": "#10106E"
     },
     {
       "name": "Room 11 ",
