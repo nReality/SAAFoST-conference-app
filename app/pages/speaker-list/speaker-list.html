@@ -11,18 +11,20 @@
 
 
     <ion-item-content >
-      <button ion-item (click)="goToSpeakerDetail(speaker)">
+
+    <!--  <button ion-item (click)="goToSpeakerDetail(speaker)"> -->
 
         <ion-avatar item-left>
           <img [src]="getSpeakerImage(speaker)">
         </ion-avatar>
         <h2> {{speaker.name}}</h2>
-
+<!--
         <button twitter (click)="goToSpeakerTwitter(speaker)" clear item-right *ngIf="speaker.twitter">
           <ion-icon name="logo-twitter"></ion-icon>
           Tweet
         </button>
-      </button>
+-->
+      <!--    </button>-->
       <ion-list >
         <button text-wrap wrap ion-item *ngFor="let session of speaker.sessions" (click)="goToSessionDetail(session)">
           <h3 wrap [innerHTML]="session.name"></h3>
