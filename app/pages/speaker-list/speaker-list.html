@@ -27,7 +27,7 @@
 -->
       <!--    </button>-->
       <ion-list >
-        <button text-wrap wrap ion-item *ngFor="let session of speaker.sessions" (click)="goToSessionDetail(session)">
+        <button text-wrap wrap ion-item *ngFor="let session of speaker.sessions" >
           <h3 wrap [innerHTML]="session.name"></h3>
         </button>
 
