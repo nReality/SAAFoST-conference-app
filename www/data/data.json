@@ -404,7 +404,7 @@
               "timeStart": "14:35",
               "timeEnd": "15:15",
               "tracks": [ "Plenary Session" ],
-              "speakerNames": [ "Christie Tarantino, Matt Teegarden & Amy DeJong" ]
+              "speakerNames": [ "Christie Tarantino", "Matt Teegarden", "Amy DeJong" ]
             }
           ]
         },
@@ -699,7 +699,7 @@
               "timeStart": "09:20",
               "timeEnd": "10:00",
               "tracks": [ "Plenary Session" ],
-              "speakerNames": [ "Paul Tenning & Azmy Azmy " ]
+              "speakerNames": [ "Paul Tenning", "Azmy Azmy " ]
             },
             {
               "name": "Innovative algae and insects processing to target a more sustainable food supply",
