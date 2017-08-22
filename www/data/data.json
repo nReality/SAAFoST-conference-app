@@ -270,7 +270,7 @@
               "speakerNames": [ "Therina Du Toit" ]
             },
             {
-              "name": "UHT complexity at the point of purchase: Does entichment change the consumers' decision? ",
+              "name": "UHT complexity at the point of purchase: Does entichment change the consumers' decision?",
               "description": "",
               "locationId": "hallC",
               "timeStart": "13:30",
@@ -302,7 +302,7 @@
               "tracks": [ "SASDT - Dairy Research Session" ]
             },
             {
-                "name": "Advances in analytical methodologies: Assessment of Rooibos as fuctional food ",
+                "name": "Advances in analytical methodologies: Assessment of Rooibos as fuctional food",
                 "description": "",
                 "locationId": "room11",
                 "timeStart": "13:50",
@@ -320,7 +320,7 @@
               "speakerNames": [ "Daniel R. Calvo" ]
             },
             {
-              "name": "Perspective on vague concepts in the safety and risk assessment of food with reference to GM - food ",
+              "name": "Perspective on vague concepts in the safety and risk assessment of food with reference to GM - food",
               "description": "",
               "locationId": "hallAB",
               "timeStart": "13:50",
@@ -366,7 +366,7 @@
               "tracks": [ "SASDT - Dairy Research Session" ]
             },
             {
-                "name": "Properties of maize starch modified with grape pomace phenolic extract under alkaline conditions ",
+                "name": "Properties of maize starch modified with grape pomace phenolic extract under alkaline conditions",
                 "description": "",
                 "locationId": "room11",
                 "timeStart": "14:10",
@@ -375,7 +375,7 @@
                 "speakerNames": [ "A.K. Oladele" ]
             },
             {
-              "name": "Key influential factors pertaining to food security: The case of the University of Pretoria ",
+              "name": "Key influential factors pertaining to food security: The case of the University of Pretoria",
               "description": "",
               "locationId": "hallC",
               "timeStart": "14:10",
@@ -384,7 +384,7 @@
               "speakerNames": [ "Gerrie Du Rand" ]
             },
             {
-              "name": "GM foods: so much confusion ",
+              "name": "GM foods: so much confusion",
               "description": "",
               "locationId": "hallAB",
               "timeStart": "14:10",
@@ -398,7 +398,7 @@
           "time": "14:35",
           "sessions": [
             {
-              "name": "Your career begins as a student: The benefits of early and continued involvement in professional societies. ",
+              "name": "Your career begins as a student: The benefits of early and continued involvement in professional societies",
               "description": "",
               "locationId": "hallAB",
               "timeStart": "14:35",
@@ -426,7 +426,7 @@
           "time": "15:15",
           "sessions": [
             {
-              "name": "Relentlessly relevant - How to innovate ",
+              "name": "Relentlessly relevant - How to innovate",
               "description": "",
               "locationId": "hallAB",
               "timeStart": "15:15",
@@ -468,7 +468,7 @@
           "time": "16:20",
           "sessions": [
             {
-              "name": "Dough-Re-Mi-Fa: Progress so Fa(r) with gluten-free viscoelastic doughs from maize zein and sorghum kafirin ",
+              "name": "Dough-Re-Mi-Fa: Progress so Fa(r) with gluten-free viscoelastic doughs from maize zein and sorghum kafirin",
               "locationId": "room8_9",
               "speakerNames": [ "John Taylor " ],
               "tracks": [ "Food Chemistry" ],
@@ -476,7 +476,7 @@
               "timeEnd": "16:40"
             },
             {
-                "name": "Relationship between waxy and high protein digestibility traits in sorghum and malting quality ",
+                "name": "Relationship between waxy and high protein digestibility traits in sorghum and malting quality",
                 "description": "",
                 "locationId": "room11",
                 "timeStart": "16:20",
@@ -508,7 +508,7 @@
           "time": "16:40",
           "sessions": [
             {
-              "name": "The pre-formulation of an aspalathin-enriched green rooibos nutraceutical extract by means of nanoencapsulation in synthetic and natural polymer systems ",
+              "name": "The pre-formulation of an aspalathin-enriched green rooibos nutraceutical extract by means of nanoencapsulation in synthetic and natural polymer systems",
               "locationId": "room8_9",
               "tracks": [ "Food Chemistry" ],
               "timeStart": "16:40",
@@ -516,7 +516,7 @@
               "speakerNames": [ "Chantelle Human" ]
             },
             {
-                "name": "Flow properties of commercial and indigenous / local complementary foods in South Africa ",
+                "name": "Flow properties of commercial and indigenous / local complementary foods in South Africa",
                 "description": "",
                 "locationId": "room11",
                 "timeStart": "16:40",
@@ -574,7 +574,7 @@
               "speakerNames": [ " " ]
             },
             {
-              "name": "Trends in health concerns of South Africans - Practical application thereof in food, beverage and supplement product development ",
+              "name": "Trends in health concerns of South Africans - Practical application thereof in food, beverage and supplement product development",
               "description": "",
               "locationId": "hallAB",
               "timeStart": "17:00",
@@ -588,7 +588,7 @@
           "time": "17:20",
           "sessions": [
             {
-              "name": "Effect of different banana varieties on the physico-chemical properties of the flour and the quality characteristics of selected gluten free baked products ",
+              "name": "Effect of different banana varieties on the physico-chemical properties of the flour and the quality characteristics of selected gluten free baked products",
               "locationId": "room8_9",
               "tracks": [ "Food Chemistry" ],
               "timeStart": "17:20",
@@ -614,7 +614,7 @@
               "speakerNames": [ " " ]
             },
             {
-              "name": "The relationship between selected internal consumer behaviour variables and the emotional response to the sensory properties of chocolate ",
+              "name": "The relationship between selected internal consumer behaviour variables and the emotional response to the sensory properties of chocolate",
               "description": "",
               "locationId": "hallAB",
               "timeStart": "17:20",
@@ -647,7 +647,7 @@
           "time": "08:00",
           "sessions": [
             {
-              "name": "Dairy in cancer prevention: Good or bad? ",
+              "name": "Dairy in cancer prevention: Good or bad?",
               "description": "",
               "locationId": "hallC",
               "timeStart": "08:00",
@@ -656,7 +656,7 @@
               "speakerNames": [ "Friede Wenhold" ]
             },
             {
-              "name": "Food fraud, pseudoscience and ethics ",
+              "name": "Food fraud, pseudoscience and ethics",
               "description": "",
               "locationId": "hallAB",
               "timeStart": "08:00",
@@ -670,7 +670,7 @@
           "time": "08:40",
           "sessions": [
             {
-              "name": "New approaches in food authenticity testing ",
+              "name": "New approaches in food authenticity testing",
               "description": "",
               "locationId": "hallC",
               "timeStart": "08:40",
@@ -702,7 +702,7 @@
               "speakerNames": [ "Paul Tenning & Azmy Azmy " ]
             },
             {
-              "name": "Innovative algae and insects processing to target a more sustainable food supply ",
+              "name": "Innovative algae and insects processing to target a more sustainable food supply",
               "description": "",
               "locationId": "hallAB",
               "timeStart": "09:20",
@@ -716,7 +716,7 @@
           "time": "10:25",
           "sessions": [
             {
-              "name": "Micro extraction applications for UHPLC-MS/MS analysis for food safety ",
+              "name": "Micro extraction applications for UHPLC-MS/MS analysis for food safety",
               "locationId": "room8_9",
               "tracks": [ "Food analysis" ],
               "timeStart": "10:25",
@@ -724,7 +724,7 @@
               "speakerNames": [ "Manuel Sergi" ]
             },
             {
-              "name": "Lipases and their role in baking ",
+              "name": "Lipases and their role in baking",
               "description": "",
               "locationId": "room11",
               "timeStart": "10:25",
@@ -742,7 +742,7 @@
               "speakerNames": [ "Michael Gristwood" ]
             },
             {
-              "name": "A south african legal perspective on food fraud ",
+              "name": "A south african legal perspective on food fraud",
               "description": "",
               "locationId": "hallAB",
               "timeStart": "10:25",
@@ -773,7 +773,7 @@
               "speakerNames": [ "Oluwatoyin Onipe" ]
             },
             {
-              "name": "Current trends in the flavouring industry ",
+              "name": "Current trends in the flavouring industry",
               "description": "",
               "locationId": "hallC",
               "timeStart": "10:45",
@@ -782,7 +782,7 @@
               "speakerNames": [ "Chris Slabbert" ]
             },
             {
-              "name": "Consumer Journalist ",
+              "name": "Consumer Journalist",
               "description": "",
               "locationId": "hallAB",
               "timeStart": "10:45",
@@ -818,7 +818,7 @@
               "speakerNames": [ "Dario Compagnone" ]
             },
             {
-              "name": "The effect of laccase on the physical, functional and sensory properties of gluten free amadumbe bread ",
+              "name": "The effect of laccase on the physical, functional and sensory properties of gluten free amadumbe bread",
               "description": "",
               "locationId": "room11",
               "timeStart": "11:05",
@@ -827,7 +827,7 @@
               "speakerNames": [ "Faith Seke" ]
             },
             {
-              "name": "Pausing to balance the book of life: Biodiversity exploitation and sustainable use in South Africa ",
+              "name": "Pausing to balance the book of life: Biodiversity exploitation and sustainable use in South Africa",
               "description": "",
               "locationId": "hallC",
               "timeStart": "11:05",
@@ -858,7 +858,7 @@
               "speakerNames": [ "Richard Majewski" ]
             },
             {
-              "name": "Biofilms, the hidden enemies of the food industry ",
+              "name": "Biofilms, the hidden enemies of the food industry",
               "description": "",
               "locationId": "room11",
               "timeStart": "11:25",
@@ -876,7 +876,7 @@
               "speakerNames": [ "Ryan Ponquett" ]
             },
             {
-              "name": "Panel Questions and Answers ",
+              "name": "Panel Questions and Answers",
               "description": "",
               "locationId": "hallAB",
               "timeStart": "11:25",
@@ -918,7 +918,7 @@
           "time": "12:20",
           "sessions": [
             {
-              "name": "Recent developments in the field sweeteners and their use in the replacement of sugar in foods and beverages ",
+              "name": "Recent developments in the field sweeteners and their use in the replacement of sugar in foods and beverages",
               "description": "",
               "locationId": "meetingRoom2",
               "timeStart": "12:20",
@@ -958,7 +958,7 @@
               "speakerNames": [ "Joerg Thomas" ]
             },
             {
-              "name": "Infant and young child feeding - myths,realities and clever tricks ",
+              "name": "Infant and young child feeding - myths,realities and clever tricks",
               "description": "",
               "locationId": "hallAB",
               "timeStart": "12:45",
@@ -980,7 +980,7 @@
               "speakerNames": [ "Tabea Mokhele" ]
             },
             {
-              "name": "Application of species-specific honeybush sensory baseline data for selection of superior quality C. subternata plant material ",
+              "name": "Application of species-specific honeybush sensory baseline data for selection of superior quality C. subternata plant material",
               "description": "",
               "locationId": "room11",
               "timeStart": "13:05",
@@ -998,7 +998,7 @@
               "speakerNames": [ "Leanne Peinke" ]
             },
             {
-              "name": "Food fraud, pseudoscience and ethics ",
+              "name": "Food fraud, pseudoscience and ethics",
               "description": "",
               "locationId": "hallAB",
               "timeStart": "13:05",
@@ -1034,7 +1034,7 @@
               "speakerNames": [ "Ganiyat Olatunde" ]
             },
             {
-              "name": "Exploring projective mapping as sensory screening tool for application by the honeybush herbal tea idustry ",
+              "name": "Exploring projective mapping as sensory screening tool for application by the honeybush herbal tea idustry",
               "description": "",
               "locationId": "room11",
               "timeStart": "13:25",
@@ -1043,7 +1043,7 @@
               "speakerNames": [ "Erika Moelich " ]
             },
             {
-              "name": "The new effective ethylene filtration technology to assist in storage and shelf life of fruits and vegetables ",
+              "name": "The new effective ethylene filtration technology to assist in storage and shelf life of fruits and vegetables",
               "description": "",
               "locationId": "hallC",
               "timeStart": "13:25",
@@ -1066,7 +1066,7 @@
           "time": "13:45",
           "sessions": [
             {
-              "name": "Innovation and the tools of the future ",
+              "name": "Innovation and the tools of the future",
               "locationId": "room8_9",
               "tracks": [ "Food processing, novel technologies, innovation and product development II" ],
               "timeStart": "13:45",
@@ -1083,7 +1083,7 @@
               "speakerNames": [ "Mark Pieterse" ]
             },
             {
-              "name": "Some important drivers affecting the future of packaging ",
+              "name": "Some important drivers affecting the future of packaging",
               "description": "",
               "locationId": "hallC",
               "timeStart": "13:45",
@@ -1092,7 +1092,7 @@
               "speakerNames": [ "Charles Muller" ]
             },
             {
-              "name": "Panel Questions and Answers ",
+              "name": "Panel Questions and Answers",
               "description": "",
               "locationId": "hallAB",
               "timeStart": "13:45",
@@ -1120,7 +1120,7 @@
           "time": "14:30",
           "sessions": [
             {
-              "name": "Selection of chemical reference standards for a honeybush aroma lexicon as quality control and grading tool ",
+              "name": "Selection of chemical reference standards for a honeybush aroma lexicon as quality control and grading tool",
               "locationId": "room8_9",
               "tracks": [ "Sensory Science & Analysis " ],
               "timeStart": "14:30",
@@ -1137,7 +1137,7 @@
               "speakerNames": [ "Christian Benetka Uher" ]
             },
             {
-              "name": "Factors contributing to an acceptable mars food system ",
+              "name": "Factors contributing to an acceptable mars food system",
               "description": "",
               "locationId": "hallC",
               "timeStart": "14:30",
@@ -1146,7 +1146,7 @@
               "speakerNames": [ "Michele Perchonok" ]
             },
             {
-              "name": "Food irradiation: The myths and facts ",
+              "name": "Food irradiation: The myths and facts",
               "description": "",
               "locationId": "hallAB",
               "timeStart": "14:30",
@@ -1174,7 +1174,7 @@
           "time": "14:50",
           "sessions": [
             {
-              "name": "Global performance management of multi-site sensory panels ",
+              "name": "Global performance management of multi-site sensory panels",
               "locationId": "room8_9",
               "tracks": [ "Sensory Science & Analysis " ],
               "timeStart": "14:50",
@@ -1182,7 +1182,7 @@
               "speakerNames": [ "Aruna Singh" ]
             },
             {
-              "name": "Effect of roselle extracts on quality characteristics of ice cream ",
+              "name": "Effect of roselle extracts on quality characteristics of ice cream",
               "description": "",
               "locationId": "room11",
               "timeStart": "14:50",
@@ -1200,7 +1200,7 @@
               "speakerNames": [ "Jane Badham" ]
             },
             {
-              "name": "GM food - is it time for a new debate? ",
+              "name": "GM food - is it time for a new debate?",
               "description": "",
               "locationId": "hallAB",
               "timeStart": "14:50",
@@ -1214,7 +1214,7 @@
           "time": "15:10",
           "sessions": [
             {
-              "name": "Molecular and proteomic characterisation of wine and wild yeast strains used for vinification ",
+              "name": "Molecular and proteomic characterisation of wine and wild yeast strains used for vinification",
               "locationId": "room8_9",
               "tracks": [ "Sensory Science & Analysis " ],
               "timeStart": "15:10",
@@ -1222,7 +1222,7 @@
               "speakerNames": [ "Clymie Abrahams" ]
             },
             {
-              "name": "Colloidal Cellulose gel: stabilizing food at extreme conditions ",
+              "name": "Colloidal Cellulose gel: stabilizing food at extreme conditions",
               "description": "",
               "locationId": "room11",
               "timeStart": "15:10",
@@ -1289,7 +1289,7 @@
               "speakerNames": [ "Petra Müller" ]
             },
             {
-              "name": "Panel Questions and Answers ",
+              "name": "Panel Questions and Answers",
               "description": "",
               "locationId": "hallAB",
               "timeStart": "15:30",
@@ -1303,7 +1303,7 @@
           "time": "15:50",
           "sessions": [
             {
-              "name": "Current approaches to microbiological food safety control and risk management in Africa ",
+              "name": "Current approaches to microbiological food safety control and risk management in Africa",
               "description": "",
               "locationId": "hallC",
               "timeStart": "15:50",
@@ -1340,7 +1340,7 @@
           "time": "16:30",
           "sessions": [
             {
-              "name": "SACNASP - Your key to the profession ",
+              "name": "SACNASP - Your key to the profession",
               "description": "",
               "locationId": "hallC",
               "timeStart": "16:30",
@@ -1349,7 +1349,7 @@
               "speakerNames": [ "Gerda Botha" ]
             },
             {
-              "name": "The interface between food engineering and gastronomy ",
+              "name": "The interface between food engineering and gastronomy",
               "description": "",
               "locationId": "hallAB",
               "timeStart": "16:30",
@@ -1369,7 +1369,7 @@
           "time": "08:00",
           "sessions": [
             {
-              "name": "From chemicals to cold plasma: Non-thermal food processing techologies research at the USDA's eastern regional research centre ",
+              "name": "From chemicals to cold plasma: Non-thermal food processing techologies research at the USDA's eastern regional research centre",
               "description": "",
               "locationId": "hallAB",
               "timeStart": "08:00",
@@ -1397,7 +1397,7 @@
           "time": "09:20",
           "sessions": [
             {
-              "name": "Future developments in comsumer and sensory science: The effect of climate change and pupolation pressure ",
+              "name": "Future developments in comsumer and sensory science: The effect of climate change and pupolation pressure",
               "description": "",
               "locationId": "hallAB",
               "timeStart": "09:20",
@@ -1434,7 +1434,7 @@
               "tracks": [ "Product Theatre" ]
             },
             {
-              "name": "Prevalence and antimicrobial resistance profile of listeria monocytogenes in South African meat and meat products ",
+              "name": "Prevalence and antimicrobial resistance profile of listeria monocytogenes in South African meat and meat products",
               "locationId": "room8_9",
               "tracks": [ "Meat science & processing " ],
               "timeStart": "11:00",
@@ -1451,7 +1451,7 @@
               "speakerNames": [ "Harris Steinmann" ]
             },
             {
-              "name": "Building a successful sensory program in industry ",
+              "name": "Building a successful sensory program in industry",
               "description": "",
               "locationId": "hallC",
               "timeStart": "11:00",
@@ -1460,7 +1460,7 @@
               "speakerNames": [ "Suzanne Pecore" ]
             },
             {
-              "name": "Buffalo absent from buffalo mozzarella? ",
+              "name": "Buffalo absent from buffalo mozzarella?",
               "description": "",
               "locationId": "hallAB",
               "timeStart": "11:00",
@@ -1474,7 +1474,7 @@
           "time": "11:20",
           "sessions": [
             {
-              "name": "Escherichia coli and Staphylococcus aureus antibiotic resistance patterns in livestock and wildlife farms in South Africa ",
+              "name": "Escherichia coli and Staphylococcus aureus antibiotic resistance patterns in livestock and wildlife farms in South Africa",
               "locationId": "room8_9",
               "tracks": [ "Meat science & processing " ],
               "timeStart": "11:20",
@@ -1482,7 +1482,7 @@
               "speakerNames": [ "Michaela van den Honert" ]
             },
             {
-              "name": "Food safety culture: The next frontier in food safety? ",
+              "name": "Food safety culture: The next frontier in food safety?",
               "description": "",
               "locationId": "room11",
               "timeStart": "11:20",
@@ -1500,7 +1500,7 @@
               "speakerNames": [ "Anne Goldman" ]
             },
             {
-              "name": "Why is there a peanut in my chillies? ",
+              "name": "Why is there a peanut in my chillies?",
               "description": "",
               "locationId": "hallAB",
               "timeStart": "11:20",
@@ -1523,7 +1523,7 @@
               "tracks": [ "Product Theatre" ]
             },
             {
-              "name": "Isolation and antimicrobial resistance of Campylobacter spp. Associated to chicken processing ",
+              "name": "Isolation and antimicrobial resistance of Campylobacter spp. Associated to chicken processing",
               "locationId": "room8_9",
               "tracks": [ "Meat science & processing " ],
               "timeStart": "11:40",
@@ -1540,7 +1540,7 @@
               "speakerNames": [ "Wendy Katiyo" ]
             },
             {
-              "name": "Building a successful sensory program in industry ",
+              "name": "Building a successful sensory program in industry",
               "description": "",
               "locationId": "hallC",
               "timeStart": "11:40",
@@ -1580,7 +1580,7 @@
               "speakerNames": [ "Linda Jackson" ]
             },
             {
-              "name": "Now that I collected temporal sensory data, what can I do with it? ",
+              "name": "Now that I collected temporal sensory data, what can I do with it?",
               "description": "",
               "locationId": "hallC",
               "timeStart": "12:00",
@@ -1643,7 +1643,7 @@
               "speakerNames": [ "Neil Miller" ]
             },
             {
-              "name": "The application of sensory and consumer science tools in product development ",
+              "name": "The application of sensory and consumer science tools in product development",
               "description": "",
               "locationId": "hallC",
               "timeStart": "13:20",
@@ -1666,7 +1666,7 @@
           "time": "13:40",
           "sessions": [
             {
-              "name": "Quantitative risk assessment for shigatoxin producing E.coli in bulk milk sold directly from producer to consumer ",
+              "name": "Quantitative risk assessment for shigatoxin producing E.coli in bulk milk sold directly from producer to consumer",
               "locationId": "room8_9",
               "tracks": [ "Food safety & microbiology II" ],
               "timeStart": "13:40",
@@ -1692,7 +1692,7 @@
               "speakerNames": [ "Marelize Scheepers" ]
             },
             {
-              "name": "Food labeling legislation: Critical considerations during new product development ",
+              "name": "Food labeling legislation: Critical considerations during new product development",
               "description": "",
               "locationId": "hallAB",
               "timeStart": "13:40",
@@ -1715,7 +1715,7 @@
               "tracks": [ "Product Theatre" ]
             },
             {
-              "name": "The role of management in food safety at a prominent South African entertainment facility: The Provision of food safety training - a case study ",
+              "name": "The role of management in food safety at a prominent South African entertainment facility: The Provision of food safety training - a case study",
               "locationId": "room8_9",
               "tracks": [ "Food safety & microbiology II" ],
               "timeStart": "14:00",
@@ -1732,7 +1732,7 @@
               "speakerNames": [ "Lisa-Claire Ronquest-Ross " ]
             },
             {
-              "name": "Eureka moments in descriptive sensory research ",
+              "name": "Eureka moments in descriptive sensory research",
               "description": "",
               "locationId": "hallC",
               "timeStart": "14:00",
@@ -1741,7 +1741,7 @@
               "speakerNames": [ "Isiguzoro Onyeoziri" ]
             },
             {
-              "name": "Navigating the maze of government departments and their food labeling regulations ",
+              "name": "Navigating the maze of government departments and their food labeling regulations",
               "description": "",
               "locationId": "hallAB",
               "timeStart": "14:00",
@@ -1755,7 +1755,7 @@
           "time": "14:20",
           "sessions": [
             {
-              "name": "Food safety knowledge, attitudes and practices (KAP) of South African consumers toward fresh produce ",
+              "name": "Food safety knowledge, attitudes and practices (KAP) of South African consumers toward fresh produce",
               "locationId": "room8_9",
               "tracks": [ "Food safety & microbiology II" ],
               "timeStart": "14:20",
@@ -1763,7 +1763,7 @@
               "speakerNames": [ "Gerrie Du Rand" ]
             },
             {
-              "name": "Heating medium as a factor affecting process optimization in thermal processing ",
+              "name": "Heating medium as a factor affecting process optimization in thermal processing",
               "description": "",
               "locationId": "room11",
               "timeStart": "14:20",
@@ -1772,7 +1772,7 @@
               "speakerNames": [ "Susan Featherstone" ]
             },
             {
-              "name": "Some live to eat, others eat to live: who cares about sensory quality of food? ",
+              "name": "Some live to eat, others eat to live: who cares about sensory quality of food?",
               "description": "",
               "locationId": "hallC",
               "timeStart": "14:20",
@@ -1781,7 +1781,7 @@
               "speakerNames": [ "Riette de Kock " ]
             },
             {
-              "name": "GM food: How much does the South African consumer know? ",
+              "name": "GM food: How much does the South African consumer know?",
               "description": "",
               "locationId": "hallAB",
               "timeStart": "14:20",
@@ -1943,7 +1943,7 @@
     },
     {
       "name": "Brett Wordon",
-      "affiliation": "DuPont Nutrition and Health ",
+      "affiliation": "DuPont Nutrition and Health",
       "priority": 1,
       "profilePic": "img/speakers/no-image-head.png",
       "twitter": "@someone",
@@ -2071,7 +2071,7 @@
     },
     {
       "name": "Janetta Harbron",
-      "affiliation": "University of Cape Town ",
+      "affiliation": "University of Cape Town",
       "priority": 1,
       "profilePic": "img/speakers/no-image-head.png",
       "twitter": "@someone",
@@ -2103,7 +2103,7 @@
     },
     {
       "name": "Elizabeth Kempen",
-      "affiliation": "University of South Africa ",
+      "affiliation": "University of South Africa",
       "priority": 1,
       "profilePic": "img/speakers/no-image-head.png",
       "twitter": "@someone",
@@ -2159,7 +2159,7 @@
     },
     {
       "name": "Christie Tarantino",
-      "affiliation": "IFT Executive Vice-President and IFT Student Association Leadership, Institute of Food Technologists ",
+      "affiliation": "IFT Executive Vice-President and IFT Student Association Leadership, Institute of Food Technologists",
       "priority": 1,
       "profilePic": "img/speakers/no-image-head.png",
       "twitter": "@someone",
@@ -2167,7 +2167,7 @@
     },
     {
       "name": "Matt Teegarden",
-      "affiliation": "IFT Executive Vice-President and IFT Student Association Leadership, Institute of Food Technologists ",
+      "affiliation": "IFT Executive Vice-President and IFT Student Association Leadership, Institute of Food Technologists",
       "priority": 1,
       "profilePic": "img/speakers/no-image-head.png",
       "twitter": "@someone",
@@ -2175,7 +2175,7 @@
     },
     {
       "name": "Amy DeJong",
-      "affiliation": "IFT Executive Vice-President and IFT Student Association Leadership, Institute of Food Technologists ",
+      "affiliation": "IFT Executive Vice-President and IFT Student Association Leadership, Institute of Food Technologists",
       "priority": 1,
       "profilePic": "img/speakers/no-image-head.png",
       "twitter": "@someone",
@@ -2183,7 +2183,7 @@
     },
     {
       "name": "Douglas Kruger",
-      "affiliation": "Author and professional speaker ",
+      "affiliation": "Author and professional speaker",
       "priority": 1,
       "profilePic": "img/speakers/no-image-head.png",
       "twitter": "@someone",
@@ -2230,7 +2230,7 @@
       "about": ""
     },
     {
-      "name": "James Makame ",
+      "name": "James Makame",
       "affiliation": "University of Pretoria",
       "priority": 1,
       "profilePic": "img/speakers/no-image-head.png",
@@ -2238,7 +2238,7 @@
       "about": ""
     },
     {
-      "name": "Jessy Van Wyk ",
+      "name": "Jessy Van Wyk",
       "affiliation": "Cape Peninsula University of Technology",
       "priority": 1,
       "profilePic": "img/speakers/no-image-head.png",
@@ -2254,7 +2254,7 @@
       "about": ""
     },
     {
-      "name": "John Taylor ",
+      "name": "John Taylor",
       "affiliation": "University of Pretoria",
       "priority": 1,
       "profilePic": "img/speakers/no-image-head.png",
@@ -2263,7 +2263,7 @@
     },
     {
       "name": "Chantelle Human",
-      "affiliation": "Stellenbosch University ",
+      "affiliation": "Stellenbosch University",
       "priority": 1,
       "profilePic": "img/speakers/no-image-head.png",
       "twitter": "@someone",
@@ -2295,7 +2295,7 @@
     },
     {
       "name": "Friede Wenhold",
-      "affiliation": "University of Pretoria ",
+      "affiliation": "University of Pretoria",
       "priority": 1,
       "profilePic": "img/speakers/no-image-head.png",
       "twitter": "@someone",
@@ -2318,7 +2318,7 @@
       "about": ""
     },
     {
-      "name": "Azmy Azmy ",
+      "name": "Azmy Azmy",
       "affiliation": "Director of Regulatory Affairs & Biotechnology Regulatory Lead, DuPont Nutrition & Health Division in EMEA",
       "priority": 1,
       "profilePic": "img/speakers/no-image-head.png",
@@ -2327,14 +2327,14 @@
     },
     {
       "name": "Janusz Luterek",
-      "affiliation": "Hahn & Hahn ",
+      "affiliation": "Hahn & Hahn",
       "priority": 1,
       "profilePic": "img/speakers/no-image-head.png",
       "twitter": "@someone",
       "about": ""
     },
     {
-      "name": "Wendy Knowler ",
+      "name": "Wendy Knowler",
       "affiliation": "",
       "priority": 1,
       "profilePic": "img/speakers/no-image-head.png",
@@ -2343,7 +2343,7 @@
     },
     {
       "name": "Marina Joubert",
-      "affiliation": "Stellenbosch University ",
+      "affiliation": "Stellenbosch University",
       "priority": 1,
       "profilePic": "img/speakers/no-image-head.png",
       "twitter": "@someone",
@@ -2366,8 +2366,8 @@
       "about": ""
     },
     {
-      "name": "Neil Crouch ",
-      "affiliation": "SA National Biodiversity Institue ",
+      "name": "Neil Crouch",
+      "affiliation": "SA National Biodiversity Institue",
       "priority": 1,
       "profilePic": "img/speakers/no-image-head.png",
       "twitter": "@someone",
@@ -2375,7 +2375,7 @@
     },
     {
       "name": "Caroline van Benschop",
-      "affiliation": "DSM Food Specialities ",
+      "affiliation": "DSM Food Specialities",
       "priority": 1,
       "profilePic": "img/speakers/no-image-head.png",
       "twitter": "@someone",
@@ -2430,8 +2430,8 @@
       "about": ""
     },
     {
-      "name": "Jacques Rousseau ",
-      "affiliation": "University of Cape Town ",
+      "name": "Jacques Rousseau",
+      "affiliation": "University of Cape Town",
       "priority": 1,
       "profilePic": "img/speakers/no-image-head.png",
       "twitter": "@someone",
@@ -2439,7 +2439,7 @@
     },
     {
       "name": "Joerg Thomas",
-      "affiliation": "KHS Manufacturing ",
+      "affiliation": "KHS Manufacturing",
       "priority": 1,
       "profilePic": "img/speakers/no-image-head.png",
       "twitter": "@someone",
@@ -2447,7 +2447,7 @@
     },
     {
       "name": "Leanne Peinke",
-      "affiliation": "Nampak R & D ",
+      "affiliation": "Nampak R & D",
       "priority": 1,
       "profilePic": "img/speakers/no-image-head.png",
       "twitter": "@someone",
@@ -2470,8 +2470,8 @@
       "about": ""
     },
     {
-      "name": "Lara Alexander ",
-      "affiliation": "Stellenbosch University ",
+      "name": "Lara Alexander",
+      "affiliation": "Stellenbosch University",
       "priority": 1,
       "profilePic": "img/speakers/no-image-head.png",
       "twitter": "@someone",
@@ -2486,8 +2486,8 @@
       "about": ""
     },
     {
-      "name": "Erika Moelich ",
-      "affiliation": "Stellenbosch University ",
+      "name": "Erika Moelich",
+      "affiliation": "Stellenbosch University",
       "priority": 1,
       "profilePic": "img/speakers/no-image-head.png",
       "twitter": "@someone",
@@ -2503,7 +2503,7 @@
     },
     {
       "name": "Kate Sendin",
-      "affiliation": "Stellenbosch University ",
+      "affiliation": "Stellenbosch University",
       "priority": 1,
       "profilePic": "img/speakers/no-image-head.png",
       "twitter": "@someone",
@@ -2543,7 +2543,7 @@
     },
     {
       "name": "Johan Burger",
-      "affiliation": "Stellenbosch University ",
+      "affiliation": "Stellenbosch University",
       "priority": 1,
       "profilePic": "img/speakers/no-image-head.png",
       "twitter": "@someone",
@@ -2575,7 +2575,7 @@
     },
     {
       "name": "Lotta K. Stenman",
-      "affiliation": "Dupont Nutrition and Health, Global Health and Nutri Science ",
+      "affiliation": "Dupont Nutrition and Health, Global Health and Nutri Science",
       "priority": 1,
       "profilePic": "img/speakers/no-image-head.png",
       "twitter": "@someone",
@@ -2599,7 +2599,7 @@
     },
     {
       "name": "Thakhani Milva Singo",
-      "affiliation": "University of South Africa ",
+      "affiliation": "University of South Africa",
       "priority": 1,
       "profilePic": "img/speakers/no-image-head.png",
       "twitter": "@someone",
@@ -2614,16 +2614,16 @@
       "about": ""
     },
     {
-      "name": "Marli Roberts ",
-      "affiliation": "University of Pretoria ",
+      "name": "Marli Roberts",
+      "affiliation": "University of Pretoria",
       "priority": 1,
       "profilePic": "img/speakers/no-image-head.png",
       "twitter": "@someone",
       "about": ""
     },
     {
-      "name": "Brigitte Von Pressentin du Preez ",
-      "affiliation": "Stellenbosch University ",
+      "name": "Brigitte Von Pressentin du Preez",
+      "affiliation": "Stellenbosch University",
       "priority": 1,
       "profilePic": "img/speakers/no-image-head.png",
       "twitter": "@someone",
@@ -2639,7 +2639,7 @@
     },
     {
       "name": "Clymie Abrahams",
-      "affiliation": "ARC Infruitec ",
+      "affiliation": "ARC Infruitec",
       "priority": 1,
       "profilePic": "img/speakers/no-image-head.png",
       "twitter": "@someone",
@@ -2679,7 +2679,7 @@
     },
     {
       "name": "Brendan Niemira",
-      "affiliation": "Food Safety and Intervention Technologies Research Unit , USDA-ARS easter regional research centre ",
+      "affiliation": "Food Safety and Intervention Technologies Research Unit , USDA-ARS easter regional research centre",
       "priority": 1,
       "profilePic": "img/speakers/no-image-head.png",
       "twitter": "@someone",
@@ -2703,7 +2703,7 @@
     },
     {
       "name": "Naushad Emmambux",
-      "affiliation": "University of Pretoria ",
+      "affiliation": "University of Pretoria",
       "priority": 1,
       "profilePic": "img/speakers/no-image-head.png",
       "twitter": "@someone",
@@ -2735,7 +2735,7 @@
     },
     {
       "name": "Marena Manley",
-      "affiliation": "Stellenbosch University ",
+      "affiliation": "Stellenbosch University",
       "priority": 1,
       "profilePic": "img/speakers/no-image-head.png",
       "twitter": "@someone",
@@ -2751,7 +2751,7 @@
     },
     {
       "name": "Anne Goldman",
-      "affiliation": "ACCE international ",
+      "affiliation": "ACCE international",
       "priority": 1,
       "profilePic": "img/speakers/no-image-head.png",
       "twitter": "@someone",
@@ -2799,7 +2799,7 @@
     },
     {
       "name": "Itumeleng Matle",
-      "affiliation": "ARC ",
+      "affiliation": "ARC",
       "priority": 1,
       "profilePic": "img/speakers/no-image-head.png",
       "twitter": "@someone",
@@ -2823,15 +2823,15 @@
     },
     {
       "name": "Arno Hugo",
-      "affiliation": "University of the Free State ",
+      "affiliation": "University of the Free State",
       "priority": 1,
       "profilePic": "img/speakers/no-image-head.png",
       "twitter": "@someone",
       "about": ""
     },
     {
-      "name": "Nelene Koen ",
-      "affiliation": "Stellenbosch University ",
+      "name": "Nelene Koen",
+      "affiliation": "Stellenbosch University",
       "priority": 1,
       "profilePic": "img/speakers/no-image-head.png",
       "twitter": "@someone",
@@ -2855,7 +2855,7 @@
     },
     {
       "name": "Izelri Marx",
-      "affiliation": "North West University ",
+      "affiliation": "North West University",
       "priority": 1,
       "profilePic": "img/speakers/no-image-head.png",
       "twitter": "@someone",
@@ -2879,15 +2879,15 @@
     },
     {
       "name": "Isiguzoro Onyeoziri",
-      "affiliation": "Department of Food Science, University of Pretoria ",
+      "affiliation": "Department of Food Science, University of Pretoria",
       "priority": 1,
       "profilePic": "img/speakers/no-image-head.png",
       "twitter": "@someone",
       "about": ""
     },
     {
-      "name": "Riette de Kock ",
-      "affiliation": "Department of Food Science, Institute of Food, Nutrition and Wellbeing, University of Pretoria ",
+      "name": "Riette de Kock",
+      "affiliation": "Department of Food Science, Institute of Food, Nutrition and Wellbeing, University of Pretoria",
       "priority": 1,
       "profilePic": "img/speakers/no-image-head.png",
       "twitter": "@someone",
@@ -2910,8 +2910,8 @@
       "about": ""
     },
     {
-      "name": "Lisa-Claire Ronquest-Ross ",
-      "affiliation": "Stellenbosch University ",
+      "name": "Lisa-Claire Ronquest-Ross",
+      "affiliation": "Stellenbosch University",
       "priority": 1,
       "profilePic": "img/speakers/no-image-head.png",
       "twitter": "@someone",
@@ -2919,7 +2919,7 @@
     },
     {
       "name": "Susan Featherstone",
-      "affiliation": "Nampak R & D ",
+      "affiliation": "Nampak R & D",
       "priority": 1,
       "profilePic": "img/speakers/no-image-head.png",
       "twitter": "@someone",
@@ -2927,7 +2927,7 @@
     },
     {
       "name": "Ranil Coorey",
-      "affiliation": "Curtin University ",
+      "affiliation": "Curtin University",
       "priority": 1,
       "profilePic": "img/speakers/no-image-head.png",
       "twitter": "@someone",
@@ -3058,12 +3058,12 @@
       "color": "#83B444"
     },
     {
-      "name": " Hall C ",
+      "name": " Hall C",
       "id": "hallC",
       "color": "#1E961E"
     },
     {
-      "name": " Room 2 ",
+      "name": " Room 2",
       "id": "meetingRoom2",
       "color": "#0000AA"
     },
@@ -3073,7 +3073,7 @@
       "color": "#343ECB"
     },
     {
-      "name": "Room 11 ",
+      "name": "Room 11",
       "id": "room11",
       "color": "#244E6E"
     }
