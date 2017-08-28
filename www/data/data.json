@@ -915,14 +915,14 @@
           ]
         },
         {
-          "time": "12:20",
+          "time": "12:40",
           "sessions": [
             {
-              "name": "Recent developments in the field sweeteners and their use in the replacement of sugar in foods and beverages ",
+              "name": "Recent developments in the field sweeteners and their use in the replacement of sugar in foods and beverages",
               "description": "",
               "locationId": "meetingRoom2",
               "timeStart": "12:20",
-              "timeEnd": "12:50",
+              "timeEnd": "13:10",
               "speakerNames": [ "Mary Quinlan" ],
               "tracks": [ "Product Theatre" ]
             }
@@ -1106,12 +1106,12 @@
           "time": "14:00",
           "sessions": [
             {
-              "name": "Long life yoghurt for Africa opportunities, challenges and solutions",
+              "name": "Healthier local sweet baked goods consumer feedback and opportunities, challenges and solutions",
               "description": "",
               "locationId": "meetingRoom2",
               "timeStart": "14:00",
               "timeEnd": "14:30",
-              "speakerNames": [ "Brett Wordon" ],
+              "speakerNames": [ "Garry Mendelson" ],
               "tracks": [ "Product Theatre" ]
             }
           ]
@@ -1160,12 +1160,12 @@
           "time": "14:40",
           "sessions": [
             {
-              "name": "The importance of protein",
+              "name": "Long life yoghurt for Africa opportunities, challenges and solutions",
               "description": "",
               "locationId": "meetingRoom2",
               "timeStart": "14:40",
               "timeEnd": "15:10",
-              "speakerNames": [ "Garry Mendelson" ],
+              "speakerNames": [ "Brett Wordon" ],
               "tracks": [ "Product Theatre" ]
             }
           ]
@@ -1254,12 +1254,12 @@
           "time": "15:30",
           "sessions": [
             {
-              "name": "TBA",
+              "name": "Differentiate your brand with bioactive collagan protein",
               "description": "",
               "locationId": "meetingRoom2",
               "timeStart": "15:30",
               "timeEnd": "16:00",
-              "speakerNames": [ ],
+              "speakerNames": [ "Monique Barnard" ],
               "tracks": [ "Product Theatre" ]
             },
             {
@@ -1711,7 +1711,7 @@
               "locationId": "meetingRoom2",
               "timeStart": "14:00",
               "timeEnd": "14:30",
-              "speakerNames": [ "Wayne V. Wieuwenhuizen" ],
+              "speakerNames": [ "Wayne Van Nieuwenhuizen" ],
               "tracks": [ "Product Theatre" ]
             },
             {
@@ -1855,7 +1855,7 @@
     },
     {
       "name": "Stefan Schmitt-Rechlin",
-      "affiliation": "J.Rettenmaier & Soehne",
+      "affiliation": "J.Rettenmaier & Söhne",
       "priority": 1,
       "profilePic": "img/speakers/no-image-head.png",
       "twitter": "@someone",
@@ -2552,6 +2552,14 @@
     {
       "name": "Nigle Sunley",
       "affiliation": "Sunley Consulting",
+      "priority": 1,
+      "profilePic": "img/speakers/no-image-head.png",
+      "twitter": "@someone",
+      "about": ""
+    },
+    {
+      "name": "Monique Barnard",
+      "affiliation": "Lake International",
       "priority": 1,
       "profilePic": "img/speakers/no-image-head.png",
       "twitter": "@someone",
