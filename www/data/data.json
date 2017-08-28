@@ -73,7 +73,7 @@
           "time": "09:15",
           "sessions": [
             {
-              "name": "Ernest Newbury Memorial Lecture:  The challenges in developing a food system for a Mars mission",
+              "name": "Ernest Newbery Memorial Lecture: The challenges in developing a food system for a Mars mission",
               "description": "",
               "locationId": "hallAB",
               "timeStart": "09:15",
@@ -114,7 +114,7 @@
           "time": "10:40",
           "sessions": [
             {
-              "name": "TBC",
+              "name": "The wonderful world of fermentation: Its positive impact on human development, health, and sustainability",
               "description": "",
               "locationId": "hallC",
               "timeStart": "10:40",
@@ -151,7 +151,7 @@
           "time": "11:20",
           "sessions": [
             {
-              "name": "All colours are equal, some colours are more equal than others:  EU and US trends and differences in consumer and food industry perception of food colours and colouring food",
+              "name": "All colours are equal, some colours are more equal than others':  EU and US trends and differences in consumer and food industry perception of food colours and colouring food",
               "description": "",
               "locationId": "hallC",
               "timeStart": "11:20",
@@ -257,7 +257,7 @@
               "locationId": "room8_9",
               "timeStart": "13:30",
               "timeEnd": "13:50",
-              "speakerNames": [ "Christina Leighton" ],
+              "speakerNames": [ "Christine Leighton" ],
               "tracks": [ "SASDT - Dairy Research Session" ]
             },
             {
@@ -270,7 +270,7 @@
               "speakerNames": [ "Therina Du Toit" ]
             },
             {
-              "name": "UHT complexity at the point of purchase: Does entichment change the consumers' decision?",
+              "name": "UHT complexity at the point of purchase: Does enrichment change the consumers' decision?",
               "description": "",
               "locationId": "hallC",
               "timeStart": "13:30",
@@ -293,12 +293,12 @@
           "time": "13:50",
           "sessions": [
             {
-              "name": "To be confirmed",
+              "name": "Dare to cheese",
               "description": "",
               "locationId": "room8_9",
               "timeStart": "13:50",
               "timeEnd": "14:10",
-              "speakerNames": [ ],
+              "speakerNames": [ "Deléne Boshoff" ],
               "tracks": [ "SASDT - Dairy Research Session" ]
             },
             {
@@ -384,7 +384,7 @@
               "speakerNames": [ "Gerrie Du Rand" ]
             },
             {
-              "name": "GM foods: so much confusion",
+              "name": "GM foods: So much confusion",
               "description": "",
               "locationId": "hallAB",
               "timeStart": "14:10",
@@ -404,7 +404,7 @@
               "timeStart": "14:35",
               "timeEnd": "15:15",
               "tracks": [ "Plenary Session" ],
-              "speakerNames": [ "Christie Tarantino", "Matt Teegarden", "Amy DeJong" ]
+              "speakerNames": [ "Christie Tarantino-Dean", "Matt Teegarden", "Amy DeJong" ]
             }
           ]
         },
@@ -485,13 +485,13 @@
                 "speakerNames": [ "Abadi G. Mezgebe" ]
             },
             {
-              "name": "MySAAFoST",
+              "name": "Interactive focus group dedicated to brainstorming the challenges and opportunities facing students and young professionals in the food industry. The outcomes of the session will help shape the future of a new section of SAAFoST that is relevant to Millennials.                                                                                                                     Attendees to the session should be under 35",
               "description": "",
               "locationId": "hallC",
               "timeStart": "16:20",
-              "timeEnd": "16:40",
-              "tracks": [ "MySAAFoST" ],
-              "speakerNames": [ " " ]
+              "timeEnd": "17:40",
+              "tracks": [ "Oral" ],
+              "speakerNames": [ "Christie Tarantino-Dean", "Matt Teegarden", "Amy DeJong" ]
             },
             {
               "name": "Global food trends and the concept of 'decolonising' the South African food industry",
@@ -628,8 +628,8 @@
           "time": "18:00",
           "sessions": [
             {
-              "name": "Food Evolution - The Movie",
-              "description": "The first screening on the African continent of the film, Food Evolution. Directed by Academy Award nominated director, Scott Hamilton Kennedy and narrated by renowned scientist Neil deGrasse Tyson, begins a new and rational conversation about the use of sound science in our global food system. Food Evolution was made possible by the Institute of Food Technologists (IFT) who funded the film to show the critical role science and innovation play in building a safe, nutritious and sustainable food supply for everyone.  While IFT funded the film, it represents the vision, full creative control and final cut that Kennedy and his partner Trace Sheehan maintained throughout the project.",
+              "name": "The first screening on the African continent of the film, Food Evolution. Directed by Academy Award nominated director, Scott Hamilton Kennedy and narrated by renowned scientist Neil deGrasse Tyson, the film begins a new and rational conversation about the use of sound science in our global food system. Food Evolution was made possible by the Institute of Food Technologists (IFT) who funded the film to show the critical role science and innovation play in building a safe, nutritious and sustainable food supply for everyone.  While IFT funded the film, it represents the vision, full creative control and final cut that Kennedy and his partner Trace Sheehan maintained throughout the project.",
+              "description": "",
               "locationId": "exhibitionHall",
               "timeStart": "18:00",
               "timeEnd": "19:45",
@@ -662,7 +662,7 @@
               "timeStart": "08:00",
               "timeEnd": "08:40",
               "tracks": [ "Plenary Session" ],
-              "speakerNames": [ "Harris Steinmann" ]
+              "speakerNames": [ "Harris Steinman" ]
             }
           ]
         },
@@ -693,7 +693,7 @@
           "time": "09:20",
           "sessions": [
             {
-              "name": "Novel foods in EU, GRAS in US and status in RSA - An overview and comparison of key food legislation & update on global regulation and labeling requirements for GM foods",
+              "name": "Novel foods in EU, GRAS in US and status in RSA - An overview and comparison of key food legislation",
               "description": "",
               "locationId": "hallC",
               "timeStart": "09:20",
@@ -721,7 +721,7 @@
               "tracks": [ "Food analysis" ],
               "timeStart": "10:25",
               "timeEnd": "10:45",
-              "speakerNames": [ "Manuel Sergi" ]
+              "speakerNames": [ "Dario Compagnone" ]
             },
             {
               "name": "Lipases and their role in baking",
@@ -742,7 +742,7 @@
               "speakerNames": [ "Michael Gristwood" ]
             },
             {
-              "name": "A south african legal perspective on food fraud",
+              "name": "A South African legal perspective on food fraud",
               "description": "",
               "locationId": "hallAB",
               "timeStart": "10:25",
@@ -761,7 +761,7 @@
               "tracks": [ "Food analysis" ],
               "timeStart": "10:45",
               "timeEnd": "11:05",
-              "speakerNames": [ "Dario Compagnone" ]
+              "speakerNames": [ "Flavio Della Pelle" ]
             },
             {
               "name": "Influence of fine and medium wheat bran incorporation on oil reduction and other quality parameters of magwinya",
@@ -782,7 +782,7 @@
               "speakerNames": [ "Chris Slabbert" ]
             },
             {
-              "name": "Consumer Journalist",
+              "name": "Serving suggestion: Food - related stories go down well with the media, but what they want is an easily digestible, tasty take-out, and what the scientists usually offer is an elaborate three-course meal, laboriously conceived and executed, with much consultation. Clearly, a culinary compromise is called for",
               "description": "",
               "locationId": "hallAB",
               "timeStart": "10:45",
@@ -904,7 +904,7 @@
           "time": "11:45",
           "sessions": [
             {
-              "name": "SAAFoST BGM and Lunch / poster viewing ( Sponsored by Innovation Research Solutions)",
+              "name": "SAAFoST BGM and Lunch break",
               "description": "",
               "locationId": "hallC",
               "timeStart": "11:45",
@@ -1004,7 +1004,7 @@
               "timeStart": "13:05",
               "timeEnd": "13:25",
               "tracks": [ "Food myths, media hype, pseudoscience and science communication " ],
-              "speakerNames": [ "Harris Steinmann" ]
+              "speakerNames": [ "Harris Steinman" ]
             }
           ]
         },
@@ -1058,7 +1058,7 @@
               "timeStart": "13:25",
               "timeEnd": "13:45",
               "tracks": [ "Food myths, media hype, pseudoscience and science communication " ],
-              "speakerNames": [ "Jacques Rousseau " ]
+              "speakerNames": [ "Jacques Rousseau" ]
             }
           ]
         },
@@ -1137,7 +1137,7 @@
               "speakerNames": [ "Christian Benetka Uher" ]
             },
             {
-              "name": "Factors contributing to an acceptable mars food system",
+              "name": "Factors contributing to an acceptable Mars food system",
               "description": "",
               "locationId": "hallC",
               "timeStart": "14:30",
@@ -1174,12 +1174,12 @@
           "time": "14:50",
           "sessions": [
             {
-              "name": "Global performance management of multi-site sensory panels",
+              "name": "Sensory profile of waste products from fermented rooibos production",
               "locationId": "room8_9",
               "tracks": [ "Sensory Science & Analysis " ],
               "timeStart": "14:50",
               "timeEnd": "15:10",
-              "speakerNames": [ "Aruna Singh" ]
+              "speakerNames": [ "Manzima Sishi" ]
             },
             {
               "name": "Effect of roselle extracts on quality characteristics of ice cream",
@@ -1188,7 +1188,7 @@
               "timeStart": "14:50",
               "timeEnd": "15:10",
               "tracks": [ "Food processing, novel technologies, innovation and product development III" ],
-              "speakerNames": [ "Thakhani Milva Singo" ]
+              "speakerNames": [ "Daniso Beswa" ]
             },
             {
               "name": "Bread matters",
@@ -1222,13 +1222,13 @@
               "speakerNames": [ "Clymie Abrahams" ]
             },
             {
-              "name": "Colloidal Cellulose gel: stabilizing food at extreme conditions",
+              "name": "Physicochemical properties of Bambara groundnut starch-lysophosphatidylcholine complex formed by high-pressure homogenization",
               "description": "",
               "locationId": "room11",
               "timeStart": "15:10",
               "timeEnd": "15:30",
               "tracks": [ "Food processing, novel technologies, innovation and product development III" ],
-              "speakerNames": [ "Aynur Celik" ]
+              "speakerNames": [ "Eric Amonsou" ]
             },
             {
               "name": "Bifidobacterium animalis ssp. Lactis 420 with or without litesse ultra controls body fat mass and waist circumference in overweight and obese subjects - randomized, double-blind, multicenter clinical study",
@@ -1240,7 +1240,7 @@
               "speakerNames": [ "Lotta K. Stenman" ]
             },
             {
-              "name": "Ultra-processed food'- myth or viable classification parameter?",
+              "name": "Ultra-processed food'- Myth or a viable classification parameter?",
               "description": "",
               "locationId": "hallAB",
               "timeStart": "15:10",
@@ -1312,7 +1312,7 @@
               "speakerNames": [ "Lucia Anelich" ]
             },
             {
-              "name": "TBC - Packaging, that saves food",
+              "name": "Packaging that saves food",
               "description": "",
               "locationId": "hallAB",
               "timeStart": "15:50",
@@ -1369,7 +1369,7 @@
           "time": "08:00",
           "sessions": [
             {
-              "name": "From chemicals to cold plasma: Non-thermal food processing techologies research at the USDA's eastern regional research centre",
+              "name": "From chemicals to cold plasma: Non-thermal food processing technologies research at the USDA's eastern regional research centre",
               "description": "",
               "locationId": "hallAB",
               "timeStart": "08:00",
@@ -1442,13 +1442,13 @@
               "speakerNames": [ "Itumeleng Matle" ]
             },
             {
-              "name": "Does precautionary allergen labeling (PAL) convey real or perceived risk?",
+              "name": "Does precautionary allergen labelling (PAL) convey real or perceived risk?",
               "description": "",
               "locationId": "room11",
               "timeStart": "11:00",
               "timeEnd": "11:20",
               "tracks": [ "Food safety & microbiology I" ],
-              "speakerNames": [ "Harris Steinmann" ]
+              "speakerNames": [ "Harris Steinman" ]
             },
             {
               "name": "Building a successful sensory program in industry",
@@ -1540,7 +1540,7 @@
               "speakerNames": [ "Wendy Katiyo" ]
             },
             {
-              "name": "Building a successful sensory program in industry",
+              "name": "Temporal methods add to innovation",
               "description": "",
               "locationId": "hallC",
               "timeStart": "11:40",
@@ -1692,7 +1692,7 @@
               "speakerNames": [ "Marelize Scheepers" ]
             },
             {
-              "name": "Food labeling legislation: Critical considerations during new product development",
+              "name": "Food labelling legislation: Critical considerations during new product development",
               "description": "",
               "locationId": "hallAB",
               "timeStart": "13:40",
@@ -1741,7 +1741,7 @@
               "speakerNames": [ "Isiguzoro Onyeoziri" ]
             },
             {
-              "name": "Navigating the maze of government departments and their food labeling regulations",
+              "name": "Navigating the maze of government departments and their food labelling regulations",
               "description": "",
               "locationId": "hallAB",
               "timeStart": "14:00",
@@ -1763,7 +1763,7 @@
               "speakerNames": [ "Gerrie Du Rand" ]
             },
             {
-              "name": "Heating medium as a factor affecting process optimization in thermal processing",
+              "name": "Heating medium as a factor Aafecting process optimization in thermal processing",
               "description": "",
               "locationId": "room11",
               "timeStart": "14:20",
@@ -1951,7 +1951,7 @@
     },
     {
       "name": "Garry Mendelson",
-      "affiliation": "EMEA DuPont Nutrition & Health",
+      "affiliation": "Dupont Nutrition & Health",
       "priority": 1,
       "profilePic": "img/speakers/no-image-head.png",
       "twitter": "@someone",
@@ -2055,7 +2055,7 @@
     },
     {
       "name": "Cindy Stewart",
-      "affiliation": "Global Cultures and Food Protection Technology & Innovation Leader, DuPont Nutrition & Health",
+      "affiliation": "Global Cultures and Food Protection Technology & Innovation Leader, DuPont Nutrition & Health, IFT (Institute of Food Technologists) President",
       "priority": 1,
       "profilePic": "img/speakers/no-image-head.png",
       "twitter": "@someone",
@@ -2142,7 +2142,7 @@
       "about": ""
     },
     {
-      "name": "Christina Leighton",
+      "name": "Christine Leighton",
       "affiliation": "University of Pretoria",
       "priority": 1,
       "profilePic": "img/speakers/no-image-head.png",
@@ -2158,7 +2158,7 @@
       "about": ""
     },
     {
-      "name": "Christie Tarantino",
+      "name": "Christie Tarantino-Dean",
       "affiliation": "IFT Executive Vice-President and IFT Student Association Leadership, Institute of Food Technologists",
       "priority": 1,
       "profilePic": "img/speakers/no-image-head.png",
@@ -2311,7 +2311,7 @@
     },
     {
       "name": "Paul Tenning",
-      "affiliation": "Director of Regulatory Affairs & Biotechnology Regulatory Lead, DuPont Nutrition & Health Division in EMEA",
+      "affiliation": "Director of Regulatory Affairs & Biotechnology Regulatory Lead, DuPont Nutrition & Health",
       "priority": 1,
       "profilePic": "img/speakers/no-image-head.png",
       "twitter": "@someone",
@@ -2319,7 +2319,7 @@
     },
     {
       "name": "Azmy Azmy",
-      "affiliation": "Director of Regulatory Affairs & Biotechnology Regulatory Lead, DuPont Nutrition & Health Division in EMEA",
+      "affiliation": "Director of Regulatory Affairs & Biotechnology Regulatory Lead, DuPont Nutrition & Health",
       "priority": 1,
       "profilePic": "img/speakers/no-image-head.png",
       "twitter": "@someone",
@@ -2335,7 +2335,7 @@
     },
     {
       "name": "Wendy Knowler",
-      "affiliation": "",
+      "affiliation": "Consumer Journalist",
       "priority": 1,
       "profilePic": "img/speakers/no-image-head.png",
       "twitter": "@someone",
@@ -2406,7 +2406,7 @@
       "about": ""
     },
     {
-      "name": "Manuel Sergi",
+      "name": "Dario Compagnone",
       "affiliation": "University of Teramo",
       "priority": 1,
       "profilePic": "img/speakers/no-image-head.png",
@@ -2414,7 +2414,7 @@
       "about": ""
     },
     {
-      "name": "Dario Compagnone",
+      "name": "Flavio Della Pelle",
       "affiliation": "University of Teramo",
       "priority": 1,
       "profilePic": "img/speakers/no-image-head.png",
@@ -2606,7 +2606,7 @@
       "about": ""
     },
     {
-      "name": "Thakhani Milva Singo",
+      "name": "Daniso Beswa",
       "affiliation": "University of South Africa",
       "priority": 1,
       "profilePic": "img/speakers/no-image-head.png",
@@ -2759,7 +2759,7 @@
     },
     {
       "name": "Anne Goldman",
-      "affiliation": "ACCE international",
+      "affiliation": "ACCE International",
       "priority": 1,
       "profilePic": "img/speakers/no-image-head.png",
       "twitter": "@someone",
@@ -2782,7 +2782,7 @@
       "about": ""
     },
     {
-      "name": "Harris Steinmann",
+      "name": "Harris Steinman",
       "affiliation": "FACTS",
       "priority": 1,
       "profilePic": "img/speakers/no-image-head.png",
@@ -2980,8 +2980,33 @@
       "profilePic": "img/speakers/no-image-head.png",
       "twitter": "@someone",
       "about": ""
+    },
+    {
+      "name": "Eric Amonsou",
+      "affiliation": "Durban University of Technology",
+      "priority": 1,
+      "profilePic": "img/speakers/no-image-head.png",
+      "twitter": "@someone",
+      "about": ""
+    },
+    {
+      "name": "Deléne Boshoff",
+      "affiliation": "PHT SA",
+      "priority": 1,
+      "profilePic": "img/speakers/no-image-head.png",
+      "twitter": "@someone",
+      "about": ""
+    },
+    {
+      "name": "Manzima Sishi",
+      "affiliation": "Stellenbosch University",
+      "priority": 1,
+      "profilePic": "img/speakers/no-image-head.png",
+      "twitter": "@someone",
+      "about": ""
     }
   ],
+
   "sponsors": [
     {
       "imageSrc": "http://www.saafost2017.org.za/Sponsorship/Logos/LakeFoods.jpg",
