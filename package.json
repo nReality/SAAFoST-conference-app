@@ -4,7 +4,8 @@
     "license": "Apache-2.0",
     "scripts": {
         "start": "ionic serve",
-        "ios": "ionic cordova emulate ios"
+        "ios": "ionic cordova emulate ios",
+        "build-android": "rm -fv platforms/android/build/outputs/apk/android-*.apk && PATH=node_modules/.bin:$PATH ionic build android --release && ./build-scripts/android-sign-v2.sh"
     },
     "repository": {
         "type": "git",
