@@ -60,7 +60,7 @@
                     <ion-item  text-wrap>
                       <h3 [innerHtml]="session.name"></h3>
                       <p>
-                        <span *ngFor="let speaker of session.speakers">{{speaker.name}}, {{speaker.affiliation}}</span>
+                        <span *ngFor="let speaker of session.speakers">{{speaker.name}}, {{speaker.affiliation}} &nbsp;</span>
                       </p>
                       <p [ngStyle]="{'color': session.location.color}"> in {{session.location.name}}</p>
                     </ion-item>
