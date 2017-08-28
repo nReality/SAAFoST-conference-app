@@ -60,9 +60,9 @@
                     <ion-item  text-wrap>
                       <h3 [innerHtml]="session.name"></h3>
                       <p>
-                        <span  *ngIf="session.speakerNames">{{session.speakerNames}} in</span>
-                        {{session.location.name}}
+                        <span *ngFor="let speaker of session.speakers">{{speaker.name}}, {{speaker.affiliation}}</span>
                       </p>
+                      <p [ngStyle]="{'color': session.location.color}"> in {{session.location.name}}</p>
                     </ion-item>
                   </ion-col>
                 </ion-row>
