@@ -3058,32 +3058,32 @@
     {
       "name": "Exhibition",
       "id": "exhibitionHall",
-      "color": "#321D5E"
+      "color": "#800080"
     },
     {
       "name": "Hall A+B",
       "id": "hallAB",
-      "color": "#83B444"
+      "color": "#008000"
     },
     {
       "name": " Hall C",
       "id": "hallC",
-      "color": "#1E961E"
+      "color": "#808000"
     },
     {
       "name": "Product Theatre",
       "id": "meetingRoom2",
-      "color": "#0000AA"
+      "color": "#800000"
     },
     {
       "name": "Room 8+9",
       "id": "room8_9",
-      "color": "#343ECB"
+      "color": "#008080"
     },
     {
       "name": "Room 11",
       "id": "room11",
-      "color": "#244E6E"
+      "color": "#000080"
     }
   ]
 }
