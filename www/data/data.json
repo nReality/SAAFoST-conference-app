@@ -87,7 +87,7 @@
           "time": "09:55",
           "sessions": [
             {
-              "name": "FACS",
+              "name": "Improving advice given to consumers",
               "description": "",
               "locationId": "hallAB",
               "timeStart": "09:55",
@@ -311,13 +311,13 @@
                 "speakerNames": [ "Amanda Swart" ]
             },
             {
-              "name": "New trends wihtin the probiotics market: How producers should deal with them",
+              "name": "New solutions to replace titanium dioxide",
               "description": "",
               "locationId": "hallC",
               "timeStart": "13:50",
               "timeEnd": "14:10",
-              "tracks": [ "Food Information, Marketing to and Educating Consumers I " ],
-              "speakerNames": [ "Daniel R. Calvo" ]
+              "tracks": [ "Food Information, Marketing to and Educating Consumers I" ],
+              "speakerNames": [ "Patricia Kruger" ]
             },
             {
               "name": "Perspective on vague concepts in the safety and risk assessment of food with reference to GM - food",
@@ -574,7 +574,7 @@
               "speakerNames": [ " " ]
             },
             {
-              "name": "Trends in health concerns of South Africans - Practical application thereof in food, beverage and supplement product development",
+              "name": "Trends in health concerns in South Africans",
               "description": "",
               "locationId": "hallAB",
               "timeStart": "17:00",
@@ -949,13 +949,13 @@
               "speakerNames": [ "Lara Alexander " ]
             },
             {
-              "name": "FreshSafe - PET",
+              "name": "TBA",
               "description": "",
               "locationId": "hallC",
               "timeStart": "12:45",
               "timeEnd": "13:05",
               "tracks": [ "IPSA - Food Packaging Session" ],
-              "speakerNames": [ "Joerg Thomas" ]
+              "speakerNames": [ "Johannes Bergmair" ]
             },
             {
               "name": "Infant and young child feeding - myths,realities and clever tricks",
@@ -1523,12 +1523,12 @@
               "tracks": [ "Product Theatre" ]
             },
             {
-              "name": "Isolation and antimicrobial resistance of Campylobacter spp. Associated to chicken processing",
+              "name": "Enteroaggregative E coli in food",
               "locationId": "room8_9",
-              "tracks": [ "Meat science & processing " ],
+              "tracks": [ "Meat science & processing" ],
               "timeStart": "11:40",
               "timeEnd": "12:00",
-              "speakerNames": [ "Sin Mei Tan" ]
+              "speakerNames": [ "Elna Buys" ]
             },
             {
               "name": "Consumer perception of the quality and safety of raw chicken meat in South Africa: a pilot study",
@@ -3000,6 +3000,14 @@
     {
       "name": "Manzima Sishi",
       "affiliation": "Stellenbosch University",
+      "priority": 1,
+      "profilePic": "img/speakers/no-image-head.png",
+      "twitter": "@someone",
+      "about": ""
+    },
+    {
+      "name": "Elna Buys",
+      "affiliation": "University of Pretoria",
       "priority": 1,
       "profilePic": "img/speakers/no-image-head.png",
       "twitter": "@someone",
